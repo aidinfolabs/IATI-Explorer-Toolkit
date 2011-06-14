@@ -1,0 +1,82 @@
+/**
+ * Color scheme: Blue
+ */
+a:link {
+	color:#333333;
+}
+a:visited {
+	color:#333333;
+}
+a:active,
+a:hover {
+	color: #ea600a;
+	text-decoration:underline;
+}
+#access a { 
+	border-bottom:5px solid #171615; 
+	color: #171615;
+}
+
+
+#access a:hover {
+	color:#ea600a;
+	background-color:none;
+	border-bottom-color:#ea600a;
+}
+#access ul ul a { background-color:#333333; text-shadow:#0059bf 0px 1px 1px; }
+#access ul ul a:hover { background-color:#fff; }
+
+
+#current_page_item a {
+    border-bottom:5px solid #ea600a;
+}    
+
+
+.sf-menu li.sfHover {
+	background-color:#333333;
+}
+.sf-menu li.sfHover a {
+	color:#a4a5a1 !important;
+	text-shadow:#000 0px 1px 1px !important;
+	border-bottom:5px solid #333333 !important; 
+}
+.entry-meta a {
+	color: #cacaca;
+}
+.entry-meta a:hover {
+	color: #ea600a;
+}
+.entry-summary .continue_reading_link {
+	background-image:url(images/more.png);
+}
+.navigation a:active,
+.navigation a:hover {
+	color: #ea600a;
+}
+.wp-pagenavi a:hover { 
+	border: 1px solid #333333 !important; 
+	background-color: #333333; 
+}
+.wp-pagenavi span.current { 
+	border: 1px solid #333333 !important; 
+	background-color: #333333; 
+}
+.wp-pagenavi span.extend { 
+	border: 1px solid #333333; 
+	background-color: #333333; 
+}
+.comment-meta a:link,
+.comment-meta a:visited {
+	color: #333333;
+	text-decoration: underline;
+}
+.comment-meta a:active,
+.comment-meta a:hover {
+	color: #111;
+}
+#main .widget-content ul li a:hover {
+	background:url(images/list-bg-dark.png) no-repeat 0 3px; 
+}
+#footer-widget-area .widget-container ul li a:hover {
+	background:url(images/list-bg-dark.png) no-repeat 0 3px; 
+}

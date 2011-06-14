@@ -1,0 +1,143 @@
+/**
+ * Here you can overide the default style of theme.
+ */
+
+body {
+    background:#F0EFED; url(library/images/body_bg.gif) repeat top left;
+}
+
+#site-description {
+    font-size:20px;
+    text-transform:lowercase;
+    font-family: 'Arial'; 
+    letter-spacing: 25%;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+
+#content,
+#content input,
+#content textarea {
+	color: #555;
+	font-size: 1.3em;
+	line-height: 1.3em;
+}
+
+#content h1,
+#content h2,
+#content h3,
+#content h4,
+#content h5,
+#content h6 {
+	color: #000;
+	margin: 0 0 20px 0;
+    border-bottom:2px dotted #ea600a;
+    line-height: 1.3em;
+    font-size: 1.1em;
+    font-family: 'Arial';
+    text-transform:uppercase;
+    text-shadow:none;
+}
+
+
+
+#content .entry-title {
+	color: #000;
+	font-size: 25px;
+	line-height: 1.3em;
+	font-weight: bold;
+	margin-bottom: 0;
+	font-family: 'Arial', 'Trebuchet MS';
+	text-transform:uppercase; 
+	text-shadow: none;
+    background-color:none;
+    border-bottom:3px solid #ea600a;
+}
+
+
+.widget_text { 
+         background-color:#FAFAFA;
+         border:2px solid #EA600A;
+         margin:0 0 18px;
+         padding:0
+         width:294px;
+
+     }
+
+.textwidget p {
+    font-size: 1.2em;
+    margin-bottom: 0.8em;
+}
+
+
+.textwidget h3 {
+    font-size: 1.3em;
+    margin-bottom: 0.5em;
+    margin-top: 0;
+    font-weight:bold;
+}
+
+
+
+#featured .panel-meta p {
+	color:#EA600A;
+    color:#fff;
+	margin:0; 
+	padding:0; 
+	font-size:12px; 
+	font-weight:bold;
+    font-family: 'Verdana', 'Arial', 'Trebuchet MS';
+}
+
+
+#featured .panel-meta h3 a:hover {
+	color:#EA600A;
+}
+
+
+#featured .panel-meta p a:hover {
+	color:#EA600A;
+}
+
+#featured .panel-meta a {
+	color:white;
+    text-decoration:none;
+}
+
+#featured h3 {
+    font-weight: bold;
+    font-size: 1.6em;
+    font-family: 'Arial';
+    text-transform:uppercase;
+    text-shadow:none;
+	margin: 0 0 10px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+
+
+#featured .panel:hover {
+#	border:10px solid #EAB696;
+}
+
+
+#comments {
+    font-size: 0.8em;
+}
+
+#respond textarea {
+    height: 50px;
+}
+
+#masthead {
+    margin-bottom:15px;
+}
+
+#access a { 
+	font-size:14px;
+}
+
+#breadcrumb {display: none;}

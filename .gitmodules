@@ -1,0 +1,3 @@
+[submodule "sync/Ckan_client-PHP"]
+	path = sync/Ckan_client-PHP
+	url = https://github.com/evo42/Ckan_client-PHP.git

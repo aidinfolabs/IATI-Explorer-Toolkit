@@ -1,0 +1,13 @@
+
+
+
+
+## License
+
+GNU General Public License
+
+## Dependencies
+
+Uses PHEXIST from http://query-exist.sourceforge.net/ licensed under the GNU General Public License (GPL)
+
+Uses CKAN PHP Client from https://github.com/evo42/Ckan_client-PHP licensed under an open license (MIT?)

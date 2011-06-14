@@ -1,0 +1,26 @@
+/**
+ * All style compatibility for internet explorer browser
+ *
+ */
+#header {
+	z-index:99;
+}
+.single .hentry {
+	margin-bottom:10px;
+}
+#content .entry-summary p {
+	padding:0;
+	margin:0;
+}
+.comment-info {
+	margin-bottom:10px !important;
+}
+#widget_search .search_button {
+	padding:5px;
+	width:55px !important;
+	text-align:center;
+}
+#footer-widget-area {
+	margin-top:10px;
+	overflow:hidden;
+}
