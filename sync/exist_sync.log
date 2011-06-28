@@ -1,0 +1,1511 @@
+18 Jun 11 15:53:23 - Database connection established to eXist
+18 Jun 11 15:53:23 - Loading current list of datasets
+18 Jun 11 15:53:23 - List of datasets loaded. 0 datasets available
+18 Jun 11 15:53:23 - Fetching package list from the registry
+18 Jun 11 15:53:23 - Packages fetched
+18 Jun 11 15:53:23 - Fetching package details
+18 Jun 11 15:53:23 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806813 minutes.
+18 Jun 11 15:53:23 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/189
+18 Jun 11 15:55:04 - Database connection established to eXist
+18 Jun 11 15:55:04 - Loading current list of datasets
+18 Jun 11 15:55:04 - List of datasets loaded. 0 datasets available
+18 Jun 11 15:55:04 - Fetching package list from the registry
+18 Jun 11 15:55:05 - Packages fetched
+18 Jun 11 15:55:05 - Fetching package details
+18 Jun 11 15:55:05 - 9aca73a8-c229-4fa1-8f39-ced49fa2415f cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:55:05 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806815 minutes.
+18 Jun 11 15:55:05 - We've checked last updated time of http://projects.dfid.gov.uk/iati/Region/189 in the last 24 hours
+18 Jun 11 15:55:05 - Inserting/Updating dfid-189 
+18 Jun 11 15:55:05 - Fetching package details
+18 Jun 11 15:55:06 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806815 minutes.
+18 Jun 11 15:55:06 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/289
+18 Jun 11 15:56:16 - Database connection established to eXist
+18 Jun 11 15:56:16 - Loading current list of datasets
+18 Jun 11 15:56:16 - List of datasets loaded. 2 datasets available
+18 Jun 11 15:56:16 - Fetching package list from the registry
+18 Jun 11 15:56:16 - Packages fetched
+18 Jun 11 15:56:16 - Fetching package details
+18 Jun 11 15:56:16 - 9aca73a8-c229-4fa1-8f39-ced49fa2415f cached. Age 3 minutes. Using cached version.
+18 Jun 11 15:56:16 - Exist version last updated 18 Jun 2011 15:55:05. Time difference 1 minutes.
+18 Jun 11 15:56:16 - dfid-189 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:56:16 - Fetching package details
+18 Jun 11 15:56:16 - 39170239-5ec3-4ab0-b0bc-e2f445f00fae cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:56:16 - Exist version last updated 18 Jun 2011 15:55:06. Time difference 1 minutes.
+18 Jun 11 15:56:16 - dfid-289 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:56:16 - Fetching package details
+18 Jun 11 15:56:16 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806816 minutes.
+18 Jun 11 15:56:16 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/298
+18 Jun 11 15:56:23 - Inserting/Updating dfid-298 
+18 Jun 11 15:56:23 - Fetching package details
+18 Jun 11 15:56:23 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806816 minutes.
+18 Jun 11 15:56:23 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/380
+18 Jun 11 15:56:25 - Inserting/Updating dfid-380 
+18 Jun 11 15:56:25 - Fetching package details
+18 Jun 11 15:56:25 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806816 minutes.
+18 Jun 11 15:56:25 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/589
+18 Jun 11 15:56:25 - Inserting/Updating dfid-589 
+18 Jun 11 15:56:25 - Fetching package details
+18 Jun 11 15:56:26 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806816 minutes.
+18 Jun 11 15:56:26 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/798
+18 Jun 11 15:56:26 - Inserting/Updating dfid-798 
+18 Jun 11 15:56:26 - Fetching package details
+18 Jun 11 15:56:27 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806816 minutes.
+18 Jun 11 15:56:27 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/89
+18 Jun 11 15:56:27 - Inserting/Updating dfid-89 
+18 Jun 11 15:56:27 - Fetching package details
+18 Jun 11 15:56:27 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806816 minutes.
+18 Jun 11 15:56:27 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/AC
+18 Jun 11 15:56:27 - Inserting/Updating dfid-ac 
+18 Jun 11 15:56:27 - Fetching package details
+18 Jun 11 15:56:28 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806816 minutes.
+18 Jun 11 15:56:28 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AF
+18 Jun 11 15:56:30 - Inserting/Updating dfid-af 
+18 Jun 11 15:56:30 - Fetching package details
+18 Jun 11 15:56:30 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:30 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AL
+18 Jun 11 15:56:31 - Inserting/Updating dfid-al 
+18 Jun 11 15:56:31 - Fetching package details
+18 Jun 11 15:56:31 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:31 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AO
+18 Jun 11 15:56:31 - Inserting/Updating dfid-ao 
+18 Jun 11 15:56:31 - Fetching package details
+18 Jun 11 15:56:32 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:32 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AS
+18 Jun 11 15:56:32 - Inserting/Updating dfid-as 
+18 Jun 11 15:56:32 - Fetching package details
+18 Jun 11 15:56:32 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:32 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BA
+18 Jun 11 15:56:33 - Inserting/Updating dfid-ba 
+18 Jun 11 15:56:33 - Fetching package details
+18 Jun 11 15:56:33 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:33 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BD
+18 Jun 11 15:56:36 - Inserting/Updating dfid-bd 
+18 Jun 11 15:56:36 - Fetching package details
+18 Jun 11 15:56:36 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:36 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BF
+18 Jun 11 15:56:37 - Inserting/Updating dfid-bf 
+18 Jun 11 15:56:37 - Fetching package details
+18 Jun 11 15:56:37 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:37 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BI
+18 Jun 11 15:56:38 - Inserting/Updating dfid-bi 
+18 Jun 11 15:56:38 - Fetching package details
+18 Jun 11 15:56:38 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:38 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BJ
+18 Jun 11 15:56:38 - Inserting/Updating dfid-bj 
+18 Jun 11 15:56:38 - Fetching package details
+18 Jun 11 15:56:39 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:39 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/BL
+18 Jun 11 15:56:39 - Inserting/Updating dfid-bl 
+18 Jun 11 15:56:39 - Fetching package details
+18 Jun 11 15:56:39 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:39 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BO
+18 Jun 11 15:56:39 - Inserting/Updating dfid-bo 
+18 Jun 11 15:56:39 - Fetching package details
+18 Jun 11 15:56:40 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:40 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BR
+18 Jun 11 15:56:40 - Inserting/Updating dfid-br 
+18 Jun 11 15:56:40 - Fetching package details
+18 Jun 11 15:56:40 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:40 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/BT
+18 Jun 11 15:56:41 - Inserting/Updating dfid-bt 
+18 Jun 11 15:56:41 - Fetching package details
+18 Jun 11 15:56:41 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:41 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/CB
+18 Jun 11 15:56:41 - Inserting/Updating dfid-cb 
+18 Jun 11 15:56:41 - Fetching package details
+18 Jun 11 15:56:41 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:41 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/CD
+18 Jun 11 15:56:43 - Inserting/Updating dfid-cd 
+18 Jun 11 15:56:43 - Fetching package details
+18 Jun 11 15:56:44 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:44 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/CF
+18 Jun 11 15:56:44 - Inserting/Updating dfid-cf 
+18 Jun 11 15:56:44 - Fetching package details
+18 Jun 11 15:56:44 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:44 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/CG
+18 Jun 11 15:56:45 - Inserting/Updating dfid-cg 
+18 Jun 11 15:56:45 - Fetching package details
+18 Jun 11 15:56:45 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:45 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/CL
+18 Jun 11 15:56:45 - Inserting/Updating dfid-cl 
+18 Jun 11 15:56:45 - Fetching package details
+18 Jun 11 15:56:45 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:45 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/CM
+18 Jun 11 15:56:46 - Inserting/Updating dfid-cm 
+18 Jun 11 15:56:46 - Fetching package details
+18 Jun 11 15:56:46 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:46 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/CN
+18 Jun 11 15:56:48 - Inserting/Updating dfid-cn 
+18 Jun 11 15:56:48 - Fetching package details
+18 Jun 11 15:56:48 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:48 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/CP
+18 Jun 11 15:56:48 - Inserting/Updating dfid-cp 
+18 Jun 11 15:56:48 - Fetching package details
+18 Jun 11 15:56:49 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:49 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/CV
+18 Jun 11 15:56:49 - Inserting/Updating dfid-cv 
+18 Jun 11 15:56:49 - Fetching package details
+18 Jun 11 15:56:49 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:49 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/DK
+18 Jun 11 15:56:49 - Inserting/Updating dfid-dk 
+18 Jun 11 15:56:49 - Fetching package details
+18 Jun 11 15:56:50 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:50 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/EA
+18 Jun 11 15:56:50 - Inserting/Updating dfid-ea 
+18 Jun 11 15:56:50 - Fetching package details
+18 Jun 11 15:56:50 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:50 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/EB
+18 Jun 11 15:56:50 - Inserting/Updating dfid-eb 
+18 Jun 11 15:56:50 - Fetching package details
+18 Jun 11 15:56:51 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:51 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/EC
+18 Jun 11 15:56:51 - Inserting/Updating dfid-ec 
+18 Jun 11 15:56:51 - Fetching package details
+18 Jun 11 15:56:51 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:51 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/ED
+18 Jun 11 15:56:51 - Inserting/Updating dfid-ed 
+18 Jun 11 15:56:51 - Fetching package details
+18 Jun 11 15:56:52 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:52 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/EF
+18 Jun 11 15:56:52 - Inserting/Updating dfid-ef 
+18 Jun 11 15:56:52 - Fetching package details
+18 Jun 11 15:56:52 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:52 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/ER
+18 Jun 11 15:56:52 - Inserting/Updating dfid-er 
+18 Jun 11 15:56:52 - Fetching package details
+18 Jun 11 15:56:53 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:53 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/ET
+18 Jun 11 15:56:55 - Inserting/Updating dfid-et 
+18 Jun 11 15:56:55 - Fetching package details
+18 Jun 11 15:56:55 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:55 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/FA
+18 Jun 11 15:56:56 - Inserting/Updating dfid-fa 
+18 Jun 11 15:56:56 - Fetching package details
+18 Jun 11 15:56:56 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:56 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/FJ
+18 Jun 11 15:56:56 - Inserting/Updating dfid-fj 
+18 Jun 11 15:56:56 - Fetching package details
+18 Jun 11 15:56:56 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:56 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GB
+18 Jun 11 15:56:57 - Inserting/Updating dfid-gb 
+18 Jun 11 15:56:57 - Fetching package details
+18 Jun 11 15:56:57 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:57 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GE
+18 Jun 11 15:56:57 - Inserting/Updating dfid-ge 
+18 Jun 11 15:56:57 - Fetching package details
+18 Jun 11 15:56:57 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:57 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GH
+18 Jun 11 15:56:59 - Inserting/Updating dfid-gh 
+18 Jun 11 15:56:59 - Fetching package details
+18 Jun 11 15:56:59 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:56:59 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GI
+18 Jun 11 15:57:00 - Inserting/Updating dfid-gi 
+18 Jun 11 15:57:00 - Fetching package details
+18 Jun 11 15:57:00 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:00 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GM
+18 Jun 11 15:57:00 - Inserting/Updating dfid-gm 
+18 Jun 11 15:57:00 - Fetching package details
+18 Jun 11 15:57:00 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:00 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GN
+18 Jun 11 15:57:01 - Inserting/Updating dfid-gn 
+18 Jun 11 15:57:01 - Fetching package details
+18 Jun 11 15:57:01 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:01 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GT
+18 Jun 11 15:57:01 - Inserting/Updating dfid-gt 
+18 Jun 11 15:57:01 - Fetching package details
+18 Jun 11 15:57:01 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:01 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/GY
+18 Jun 11 15:57:02 - Inserting/Updating dfid-gy 
+18 Jun 11 15:57:02 - Fetching package details
+18 Jun 11 15:57:02 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:02 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/HN
+18 Jun 11 15:57:02 - Inserting/Updating dfid-hn 
+18 Jun 11 15:57:02 - Fetching package details
+18 Jun 11 15:57:02 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:02 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/HT
+18 Jun 11 15:57:03 - Inserting/Updating dfid-ht 
+18 Jun 11 15:57:03 - Fetching package details
+18 Jun 11 15:57:04 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:04 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/IB
+18 Jun 11 15:57:04 - Inserting/Updating dfid-ib 
+18 Jun 11 15:57:04 - Fetching package details
+18 Jun 11 15:57:04 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:04 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/ID
+18 Jun 11 15:57:05 - Inserting/Updating dfid-id 
+18 Jun 11 15:57:05 - Fetching package details
+18 Jun 11 15:57:06 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:06 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/IN
+18 Jun 11 15:57:09 - Inserting/Updating dfid-in 
+18 Jun 11 15:57:09 - Fetching package details
+18 Jun 11 15:57:09 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:09 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/IQ
+18 Jun 11 15:57:10 - Inserting/Updating dfid-iq 
+18 Jun 11 15:57:10 - Fetching package details
+18 Jun 11 15:57:10 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:10 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/JM
+18 Jun 11 15:57:10 - Inserting/Updating dfid-jm 
+18 Jun 11 15:57:10 - Fetching package details
+18 Jun 11 15:57:10 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:10 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/JO
+18 Jun 11 15:57:11 - Inserting/Updating dfid-jo 
+18 Jun 11 15:57:11 - Fetching package details
+18 Jun 11 15:57:11 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:11 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/KE
+18 Jun 11 15:57:13 - Inserting/Updating dfid-ke 
+18 Jun 11 15:57:13 - Fetching package details
+18 Jun 11 15:57:14 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:14 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/KG
+18 Jun 11 15:57:14 - Inserting/Updating dfid-kg 
+18 Jun 11 15:57:14 - Fetching package details
+18 Jun 11 15:57:14 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:14 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/KH
+18 Jun 11 15:57:15 - Inserting/Updating dfid-kh 
+18 Jun 11 15:57:15 - Fetching package details
+18 Jun 11 15:57:15 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:15 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/KO
+18 Jun 11 15:57:16 - Inserting/Updating dfid-ko 
+18 Jun 11 15:57:16 - Fetching package details
+18 Jun 11 15:57:16 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:16 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/LA
+18 Jun 11 15:57:17 - Inserting/Updating dfid-la 
+18 Jun 11 15:57:17 - Fetching package details
+18 Jun 11 15:57:17 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:17 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/LC
+18 Jun 11 15:57:17 - Inserting/Updating dfid-lc 
+18 Jun 11 15:57:17 - Fetching package details
+18 Jun 11 15:57:17 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:17 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/LE
+18 Jun 11 15:57:18 - Inserting/Updating dfid-le 
+18 Jun 11 15:57:18 - Fetching package details
+18 Jun 11 15:57:18 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:18 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/LK
+18 Jun 11 15:57:19 - Inserting/Updating dfid-lk 
+18 Jun 11 15:57:19 - Fetching package details
+18 Jun 11 15:57:19 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:19 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/LR
+18 Jun 11 15:57:20 - Inserting/Updating dfid-lr 
+18 Jun 11 15:57:20 - Fetching package details
+18 Jun 11 15:57:20 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:20 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/LS
+18 Jun 11 15:57:21 - Inserting/Updating dfid-ls 
+18 Jun 11 15:57:21 - Fetching package details
+18 Jun 11 15:57:21 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:21 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MD
+18 Jun 11 15:57:22 - Inserting/Updating dfid-md 
+18 Jun 11 15:57:22 - Fetching package details
+18 Jun 11 15:57:22 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:22 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MG
+18 Jun 11 15:57:22 - Inserting/Updating dfid-mg 
+18 Jun 11 15:57:22 - Fetching package details
+18 Jun 11 15:57:22 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:22 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MM
+18 Jun 11 15:57:25 - Inserting/Updating dfid-mm 
+18 Jun 11 15:57:25 - Fetching package details
+18 Jun 11 15:57:25 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:25 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MN
+18 Jun 11 15:57:25 - Inserting/Updating dfid-mn 
+18 Jun 11 15:57:25 - Fetching package details
+18 Jun 11 15:57:25 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:25 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MS
+18 Jun 11 15:57:27 - Inserting/Updating dfid-ms 
+18 Jun 11 15:57:27 - Fetching package details
+18 Jun 11 15:57:27 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:27 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MV
+18 Jun 11 15:57:27 - Inserting/Updating dfid-mv 
+18 Jun 11 15:57:27 - Fetching package details
+18 Jun 11 15:57:27 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806817 minutes.
+18 Jun 11 15:57:27 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MW
+18 Jun 11 15:57:30 - Inserting/Updating dfid-mw 
+18 Jun 11 15:57:30 - Fetching package details
+18 Jun 11 15:57:30 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:57:30 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/MZ
+18 Jun 11 15:57:32 - Inserting/Updating dfid-mz 
+18 Jun 11 15:57:32 - Fetching package details
+18 Jun 11 15:57:32 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:57:32 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/NA
+18 Jun 11 15:57:32 - Inserting/Updating dfid-na 
+18 Jun 11 15:57:32 - Fetching package details
+18 Jun 11 15:57:32 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:57:32 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/NE
+18 Jun 11 15:57:33 - Inserting/Updating dfid-ne 
+18 Jun 11 15:57:33 - Fetching package details
+18 Jun 11 15:57:33 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:57:33 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/NG
+18 Jun 11 15:57:36 - Inserting/Updating dfid-ng 
+18 Jun 11 15:57:36 - Fetching package details
+18 Jun 11 15:57:36 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:57:36 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/NI
+18 Jun 11 15:57:37 - Inserting/Updating dfid-ni 
+18 Jun 11 15:57:37 - Fetching package details
+18 Jun 11 15:57:37 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:57:37 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/NP
+18 Jun 11 15:57:39 - Inserting/Updating dfid-np 
+18 Jun 11 15:57:39 - Fetching package details
+18 Jun 11 15:57:40 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:57:40 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/NS
+18 Jun 11 15:58:06 - Inserting/Updating dfid-ns 
+18 Jun 11 15:58:06 - Fetching package details
+18 Jun 11 15:58:07 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:07 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/NULL
+18 Jun 11 15:58:07 - Inserting/Updating dfid-null 
+18 Jun 11 15:58:07 - Fetching package details
+18 Jun 11 15:58:08 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:10 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/OT
+18 Jun 11 15:58:12 - Inserting/Updating dfid-ot 
+18 Jun 11 15:58:12 - Fetching package details
+18 Jun 11 15:58:12 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:12 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/PE
+18 Jun 11 15:58:12 - Inserting/Updating dfid-pe 
+18 Jun 11 15:58:12 - Fetching package details
+18 Jun 11 15:58:13 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:13 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/PG
+18 Jun 11 15:58:13 - Inserting/Updating dfid-pg 
+18 Jun 11 15:58:13 - Fetching package details
+18 Jun 11 15:58:13 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:13 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/PH
+18 Jun 11 15:58:13 - Inserting/Updating dfid-ph 
+18 Jun 11 15:58:13 - Fetching package details
+18 Jun 11 15:58:13 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:13 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/PK
+18 Jun 11 15:58:15 - Database connection established to eXist
+18 Jun 11 15:58:15 - Loading current list of datasets
+18 Jun 11 15:58:15 - List of datasets loaded. 85 datasets available
+18 Jun 11 15:58:15 - Fetching package list from the registry
+18 Jun 11 15:58:15 - Packages fetched
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 9aca73a8-c229-4fa1-8f39-ced49fa2415f cached. Age 5 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:55:05. Time difference 3 minutes.
+18 Jun 11 15:58:15 - dfid-189 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 39170239-5ec3-4ab0-b0bc-e2f445f00fae cached. Age 3 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:55:06. Time difference 3 minutes.
+18 Jun 11 15:58:15 - dfid-289 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - da9deb45-6601-48e0-af07-5f84c741261e cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:20. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-298 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 3ccb8ae2-0c7c-4790-b3f6-44eef75e6f5f cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:24. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-380 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - bf335e51-6dd3-4cbd-b3d2-60d2b2f64974 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:25. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-589 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 71121b1f-4344-4875-b987-57b0033a8e92 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:26. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-798 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 54d297a4-1675-45ce-9e30-85abdabdb94d cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:27. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-89 is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 1ded1826-a420-44dc-bfd1-908f0e207977 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:27. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-ac is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - bbe47f4c-76b7-47ff-9640-3954c7733478 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:30. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-af is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 29db82b1-3a37-4055-9648-04208c8cfb0a cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:31. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-al is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - eccbdc0f-5be7-4b0c-b468-ba18bd40dea6 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:31. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-ao is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - dac92a74-4cb8-4cc2-aecc-caf7306336de cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:32. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-as is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 1fc4f3aa-75fe-4a24-88c8-1ad3f59909dc cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:33. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-ba is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 6e860efa-dcb8-42b5-8be5-891b2559014d cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:36. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-bd is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - b937ebb2-f05d-46cc-84db-7a23dcb984b2 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:37. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-bf is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 88e7d319-b11c-44b3-b5cf-29e014b79442 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:38. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-bi is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 56f3afd2-7aae-446f-991d-409e936dd84a cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:38. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-bj is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 3bd79886-9dd7-4ad7-ab52-3e5b6b1ca7e6 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:39. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-bl is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - f06f57ad-07fc-429e-9d82-91cd476712c5 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:39. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-bo is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 4173a2b5-e488-417c-961d-1fe05a9cbad2 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:40. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-br is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - a6519a80-b75f-47de-9375-ea4a3ccca485 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:41. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-bt is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 2bbbc4c8-5722-4374-ab6a-d048cfaec0e2 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:41. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-cb is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 01284817-d083-4987-ba92-d23c24debf4a cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:43. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-cd is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 3c3d4bdd-d9cf-4af1-87f7-4187dda331d8 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:44. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-cf is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 90f1b1ec-1292-418d-b935-8679bf1d9397 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:45. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-cg is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - e2110a29-ceab-4d78-9a6a-17121862ac3b cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:45. Time difference 2 minutes.
+18 Jun 11 15:58:15 - dfid-cl is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 9e003dd2-ad2c-4106-99b2-ad2be41ca702 cached. Age 2 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:46. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-cm is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - fc9b946d-46d8-49d2-8f93-961eae530fa0 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:48. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-cn is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 30b248b0-3caf-4c83-b0b2-f23f1860be6c cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:48. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-cp is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - c633d668-fff0-4f15-8229-527f02b3cdfd cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:49. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-cv is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 0b7f9ffd-c98b-4b46-91aa-ccb0bd0c790d cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:49. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-dk is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 5e336a48-043e-40d2-9dc0-47e3a458bf62 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:50. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ea is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - cd23d485-fa3f-468f-a3c7-51a22fee462a cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:50. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-eb is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 00a23933-abc8-4d80-88f1-6e9346f7682b cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:51. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ec is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 41682a4f-f26c-4e4a-be1b-0873f0a58fc9 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:51. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ed is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 29e53f5e-c53d-4496-a446-5bc7fcebca51 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:52. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ef is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 42fbda1f-cc0e-405e-86a9-5c066b18ba7e cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:52. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-er is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 6ce5edf4-07d0-4eff-8fed-3fe911589ac4 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:55. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-et is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - b8c3d7f6-0cd4-432c-b480-8246c2653468 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:56. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-fa is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - a4ad9fa6-0211-4460-93d2-2355a71eec66 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:56. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-fj is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 98381eee-4e28-43bb-8ce1-ac03a75c1b64 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:57. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-gb is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 9b607da4-e6b9-4ee0-9b91-ee4840ffa8e0 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:57. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ge is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 51839305-4be7-4576-851b-1d44a8099572 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:56:59. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-gh is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 805d2879-3515-4e12-bf44-748cc829d5a2 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:00. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-gi is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - e6c87a20-f343-40b2-b7be-3b5b73418066 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:00. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-gm is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - a2e83e2c-223f-4f84-8565-8ccf1a67a3f9 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:01. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-gn is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - ff9dc2cc-881a-478b-a846-98486938088b cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:01. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-gt is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 1bb61ecd-a354-4711-a9f4-66e735ab7c21 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:02. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-gy is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 186bf03c-f9a4-4cb7-80e2-8550d2f46edb cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:02. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-hn is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - a2ae06c8-2997-4258-b766-7b6400b2244f cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:03. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ht is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - f211358c-a178-4411-b76f-7613df94d32a cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:04. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ib is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - e33e4633-1878-49de-8bc7-29d905c0330d cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:05. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-id is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - cdedabca-23ae-4362-b601-2987bea6ce25 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:08. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-in is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - c96b669d-bbcc-4c99-a9d4-96265632c19f cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:10. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-iq is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - d8a046a6-ab63-496d-819e-6f16b5b4af98 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:10. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-jm is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - f5134d12-5e33-43a5-a240-257b5eaeb0e1 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:11. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-jo is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - c46c74e2-2267-4516-a5b3-e3a8b54ea947 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:13. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ke is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 1398c022-66a4-46eb-b442-af23337d626c cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:14. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-kg is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - d8358966-04a4-4c0d-ba36-f0b12fb286c8 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:15. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-kh is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 2a5a9d0c-9849-4c86-8ca2-63dcddc9159e cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:16. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ko is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 93c9a0bf-b974-4b84-809e-ddb44e4fa193 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:17. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-la is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - cf18e984-4597-4cc5-b638-4b28110fa417 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:17. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-lc is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - ad3fddd6-217c-4604-bc46-e35e0d1a1dcf cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:18. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-le is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - e88828a1-311d-437b-813a-cb74039aae87 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:19. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-lk is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 0ef9b062-ac1b-44ff-9256-f5117024cbc9 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:20. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-lr is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 34ba15ff-d513-4357-a3ad-e37e0370ae45 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:21. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ls is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 0e637fad-4892-48ea-9c7f-7e3b855acdeb cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:21. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-md is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - f5c07f20-17ef-4adb-9aa3-00f6ae74690b cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:22. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-mg is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 9bd2b7b4-b565-4584-a979-938657dc878d cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:24. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-mm is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - d57b49cf-507e-43f1-8ebe-ad696f69a856 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:25. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-mn is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 4b935581-f3ba-480e-a349-69740759f9c8 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:26. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ms is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - dc745eee-40ef-4718-b451-b6f47dfb918d cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:27. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-mv is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 17048894-80f4-4d94-b99c-5c907c4fa622 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:29. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-mw is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 7ad25ff8-2b18-4f29-bd02-58e227e06df7 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:31. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-mz is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - b4462aac-42fb-4084-8e8e-1a80da1b4162 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:32. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-na is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 36f57f0b-84e0-4720-8de7-83b66250791d cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:33. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ne is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 6d60a7ad-cb6d-4ce1-a506-391a67b7b11c cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:36. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ng is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 00ea99a6-cb8d-486f-9ad3-377cecb20bf7 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:37. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-ni is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - fa4da593-1179-4c55-af4a-ccd1a26a4c1b cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:57:39. Time difference 1 minutes.
+18 Jun 11 15:58:15 - dfid-np is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - f4f3955f-5bfa-42d0-bbac-8b3d4e86da79 cached. Age 1 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:58:02. Time difference 0 minutes.
+18 Jun 11 15:58:15 - dfid-ns is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - f2b74a6f-15e9-4473-bdfb-681ea32975b4 cached. Age 0 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:58:07. Time difference 0 minutes.
+18 Jun 11 15:58:15 - dfid-null is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 7575d1d2-6677-4252-b57f-1ef6e2f8188a cached. Age 0 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:58:12. Time difference 0 minutes.
+18 Jun 11 15:58:15 - dfid-ot is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 916eaa2d-8590-4f29-98ce-a402e0481933 cached. Age 0 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:58:12. Time difference 0 minutes.
+18 Jun 11 15:58:15 - dfid-pe is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 9cabe6df-ad39-4cb3-9e88-64d263d03c66 cached. Age 0 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:58:13. Time difference 0 minutes.
+18 Jun 11 15:58:15 - dfid-pg is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 3501389d-22ea-489c-9f69-bddfa2a7e76e cached. Age 0 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 18 Jun 2011 15:58:13. Time difference 0 minutes.
+18 Jun 11 15:58:15 - dfid-ph is already up to date in eXist: only 0 hours old.
+18 Jun 11 15:58:15 - Fetching package details
+18 Jun 11 15:58:15 - 48945380-dbfc-476d-9347-849198fd0faf cached. Age 0 minutes. Using cached version.
+18 Jun 11 15:58:15 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:15 - We've checked last updated time of http://projects.dfid.gov.uk/iati/Country/PK in the last 24 hours
+18 Jun 11 15:58:20 - Inserting/Updating dfid-pk 
+18 Jun 11 15:58:20 - Fetching package details
+18 Jun 11 15:58:20 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:20 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/PN
+18 Jun 11 15:58:20 - Inserting/Updating dfid-pn 
+18 Jun 11 15:58:20 - Fetching package details
+18 Jun 11 15:58:21 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:21 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/PS
+18 Jun 11 15:58:22 - Inserting/Updating dfid-ps 
+18 Jun 11 15:58:22 - Fetching package details
+18 Jun 11 15:58:22 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:22 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/RS
+18 Jun 11 15:58:23 - Inserting/Updating dfid-rs 
+18 Jun 11 15:58:23 - Fetching package details
+18 Jun 11 15:58:23 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:23 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/RU
+18 Jun 11 15:58:23 - Inserting/Updating dfid-ru 
+18 Jun 11 15:58:23 - Fetching package details
+18 Jun 11 15:58:23 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:23 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/RW
+18 Jun 11 15:58:25 - Inserting/Updating dfid-rw 
+18 Jun 11 15:58:25 - Fetching package details
+18 Jun 11 15:58:25 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:25 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/SD
+18 Jun 11 15:58:28 - Inserting/Updating dfid-sd 
+18 Jun 11 15:58:28 - Fetching package details
+18 Jun 11 15:58:28 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806818 minutes.
+18 Jun 11 15:58:28 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/SH
+18 Jun 11 15:58:30 - Inserting/Updating dfid-sh 
+18 Jun 11 15:58:30 - Fetching package details
+18 Jun 11 15:58:30 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:30 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/SL
+18 Jun 11 15:58:32 - Inserting/Updating dfid-sl 
+18 Jun 11 15:58:32 - Fetching package details
+18 Jun 11 15:58:33 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:33 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/SN
+18 Jun 11 15:58:33 - Inserting/Updating dfid-sn 
+18 Jun 11 15:58:33 - Fetching package details
+18 Jun 11 15:58:33 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:33 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/SO
+18 Jun 11 15:58:35 - Inserting/Updating dfid-so 
+18 Jun 11 15:58:35 - Fetching package details
+18 Jun 11 15:58:35 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:35 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/SQ
+18 Jun 11 15:58:35 - Inserting/Updating dfid-sq 
+18 Jun 11 15:58:35 - Fetching package details
+18 Jun 11 15:58:35 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:35 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/SS
+18 Jun 11 15:58:36 - Inserting/Updating dfid-ss 
+18 Jun 11 15:58:36 - Fetching package details
+18 Jun 11 15:58:36 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:36 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/SU
+18 Jun 11 15:58:36 - Inserting/Updating dfid-su 
+18 Jun 11 15:58:36 - Fetching package details
+18 Jun 11 15:58:36 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:36 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/TC
+18 Jun 11 15:58:37 - Inserting/Updating dfid-tc 
+18 Jun 11 15:58:37 - Fetching package details
+18 Jun 11 15:58:37 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:37 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/TD
+18 Jun 11 15:58:37 - Inserting/Updating dfid-td 
+18 Jun 11 15:58:37 - Fetching package details
+18 Jun 11 15:58:38 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:38 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/TH
+18 Jun 11 15:58:38 - Inserting/Updating dfid-th 
+18 Jun 11 15:58:38 - Fetching package details
+18 Jun 11 15:58:38 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:38 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/TJ
+18 Jun 11 15:58:39 - Inserting/Updating dfid-tj 
+18 Jun 11 15:58:39 - Fetching package details
+18 Jun 11 15:58:39 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:39 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/TL
+18 Jun 11 15:58:40 - Inserting/Updating dfid-tl 
+18 Jun 11 15:58:40 - Fetching package details
+18 Jun 11 15:58:40 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:40 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/TR
+18 Jun 11 15:58:40 - Inserting/Updating dfid-tr 
+18 Jun 11 15:58:40 - Fetching package details
+18 Jun 11 15:58:40 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:40 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/TZ
+18 Jun 11 15:58:42 - Inserting/Updating dfid-tz 
+18 Jun 11 15:58:42 - Fetching package details
+18 Jun 11 15:58:42 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:42 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/UA
+18 Jun 11 15:58:43 - Inserting/Updating dfid-ua 
+18 Jun 11 15:58:43 - Fetching package details
+18 Jun 11 15:58:43 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:43 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/UG
+18 Jun 11 15:58:45 - Inserting/Updating dfid-ug 
+18 Jun 11 15:58:45 - Fetching package details
+18 Jun 11 15:58:46 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:46 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/VN
+18 Jun 11 15:58:47 - Inserting/Updating dfid-vn 
+18 Jun 11 15:58:47 - Fetching package details
+18 Jun 11 15:58:47 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:47 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/VU
+18 Jun 11 15:58:47 - Inserting/Updating dfid-vu 
+18 Jun 11 15:58:47 - Fetching package details
+18 Jun 11 15:58:47 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:47 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/WS
+18 Jun 11 15:58:48 - Inserting/Updating dfid-ws 
+18 Jun 11 15:58:48 - Fetching package details
+18 Jun 11 15:58:48 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:48 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/YE
+18 Jun 11 15:58:49 - Inserting/Updating dfid-ye 
+18 Jun 11 15:58:49 - Fetching package details
+18 Jun 11 15:58:49 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:49 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/ZA
+18 Jun 11 15:58:50 - Inserting/Updating dfid-za 
+18 Jun 11 15:58:50 - Fetching package details
+18 Jun 11 15:58:50 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:50 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/ZM
+18 Jun 11 15:58:52 - Inserting/Updating dfid-zm 
+18 Jun 11 15:58:52 - Fetching package details
+18 Jun 11 15:58:52 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:52 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/ZW
+18 Jun 11 15:58:54 - Inserting/Updating dfid-zw 
+18 Jun 11 15:58:54 - Fetching package details
+18 Jun 11 15:58:54 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:54 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/ZZ
+18 Jun 11 15:58:57 - Inserting/Updating dfid-zz 
+18 Jun 11 15:58:57 - Fetching package details
+18 Jun 11 15:58:57 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:58:57 - Checking last updated time of http://www.hewlett.org/uploads/documents/IATIActivities.xml
+18 Jun 11 15:59:02 - Inserting/Updating hewlett-foundation-activity 
+18 Jun 11 15:59:02 - Fetching package details
+18 Jun 11 15:59:02 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:02 - Checking last updated time of http://www.hewlett.org/uploads/documents/IATIOrg.xml
+18 Jun 11 15:59:03 - Inserting/Updating hewlett-foundation-org 
+18 Jun 11 15:59:03 - Fetching package details
+18 Jun 11 15:59:03 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:03 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_289.xml
+18 Jun 11 15:59:04 - Inserting/Updating wb-289 
+18 Jun 11 15:59:04 - Fetching package details
+18 Jun 11 15:59:04 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:04 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_298.xml
+18 Jun 11 15:59:06 - Inserting/Updating wb-298 
+18 Jun 11 15:59:06 - Fetching package details
+18 Jun 11 15:59:06 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:06 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_389.xml
+18 Jun 11 15:59:07 - Inserting/Updating wb-389 
+18 Jun 11 15:59:07 - Fetching package details
+18 Jun 11 15:59:07 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:07 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_619.xml
+18 Jun 11 15:59:08 - Inserting/Updating wb-619 
+18 Jun 11 15:59:08 - Fetching package details
+18 Jun 11 15:59:08 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:08 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_998.xml
+18 Jun 11 15:59:09 - Inserting/Updating wb-998 
+18 Jun 11 15:59:09 - Fetching package details
+18 Jun 11 15:59:09 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:09 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AF.xml
+18 Jun 11 15:59:11 - Inserting/Updating wb-af 
+18 Jun 11 15:59:11 - Fetching package details
+18 Jun 11 15:59:11 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:11 - We've checked last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AF.xml in the last 24 hours
+18 Jun 11 15:59:12 - Inserting/Updating wb-af-test 
+18 Jun 11 15:59:12 - Fetching package details
+18 Jun 11 15:59:13 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:13 - We've checked last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AF.xml in the last 24 hours
+18 Jun 11 15:59:14 - Inserting/Updating wb-af-test1 
+18 Jun 11 15:59:14 - Fetching package details
+18 Jun 11 15:59:14 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:14 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AL.xml
+18 Jun 11 15:59:17 - Inserting/Updating wb-al 
+18 Jun 11 15:59:17 - Fetching package details
+18 Jun 11 15:59:17 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:17 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AM.xml
+18 Jun 11 15:59:19 - Inserting/Updating wb-am 
+18 Jun 11 15:59:19 - Fetching package details
+18 Jun 11 15:59:19 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:19 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AO.xml
+18 Jun 11 15:59:20 - Inserting/Updating wb-ao 
+18 Jun 11 15:59:20 - Fetching package details
+18 Jun 11 15:59:20 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:20 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AR.xml
+18 Jun 11 15:59:23 - Inserting/Updating wb-ar 
+18 Jun 11 15:59:23 - Fetching package details
+18 Jun 11 15:59:23 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:23 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_AZ.xml
+18 Jun 11 15:59:25 - Inserting/Updating wb-az 
+18 Jun 11 15:59:25 - Fetching package details
+18 Jun 11 15:59:25 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:25 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BA.xml
+18 Jun 11 15:59:27 - Inserting/Updating wb-ba 
+18 Jun 11 15:59:27 - Fetching package details
+18 Jun 11 15:59:28 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:28 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BB.xml
+18 Jun 11 15:59:28 - Inserting/Updating wb-bb 
+18 Jun 11 15:59:28 - Fetching package details
+18 Jun 11 15:59:28 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806819 minutes.
+18 Jun 11 15:59:28 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BD.xml
+18 Jun 11 15:59:34 - Inserting/Updating wb-bd 
+18 Jun 11 15:59:34 - Fetching package details
+18 Jun 11 15:59:34 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:34 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BF.xml
+18 Jun 11 15:59:35 - Inserting/Updating wb-bf 
+18 Jun 11 15:59:35 - Fetching package details
+18 Jun 11 15:59:35 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:35 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BG.xml
+18 Jun 11 15:59:37 - Inserting/Updating wb-bg 
+18 Jun 11 15:59:37 - Fetching package details
+18 Jun 11 15:59:37 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:37 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BI.xml
+18 Jun 11 15:59:38 - Inserting/Updating wb-bi 
+18 Jun 11 15:59:38 - Fetching package details
+18 Jun 11 15:59:38 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:38 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BJ.xml
+18 Jun 11 15:59:39 - Inserting/Updating wb-bj 
+18 Jun 11 15:59:39 - Fetching package details
+18 Jun 11 15:59:39 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:39 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BO.xml
+18 Jun 11 15:59:40 - Inserting/Updating wb-bo 
+18 Jun 11 15:59:40 - Fetching package details
+18 Jun 11 15:59:41 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:41 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BR.xml
+18 Jun 11 15:59:45 - Inserting/Updating wb-br 
+18 Jun 11 15:59:45 - Fetching package details
+18 Jun 11 15:59:45 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:45 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BT.xml
+18 Jun 11 15:59:46 - Inserting/Updating wb-bt 
+18 Jun 11 15:59:46 - Fetching package details
+18 Jun 11 15:59:46 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:46 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BW.xml
+18 Jun 11 15:59:47 - Inserting/Updating wb-bw 
+18 Jun 11 15:59:47 - Fetching package details
+18 Jun 11 15:59:47 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:47 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BY.xml
+18 Jun 11 15:59:48 - Inserting/Updating wb-by 
+18 Jun 11 15:59:48 - Fetching package details
+18 Jun 11 15:59:48 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:48 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_BZ.xml
+18 Jun 11 15:59:49 - Inserting/Updating wb-bz 
+18 Jun 11 15:59:49 - Fetching package details
+18 Jun 11 15:59:49 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:49 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CD.xml
+18 Jun 11 15:59:53 - Inserting/Updating wb-cd 
+18 Jun 11 15:59:53 - Fetching package details
+18 Jun 11 15:59:54 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:54 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CF.xml
+18 Jun 11 15:59:54 - Inserting/Updating wb-cf 
+18 Jun 11 15:59:54 - Fetching package details
+18 Jun 11 15:59:55 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:55 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CG.xml
+18 Jun 11 15:59:56 - Inserting/Updating wb-cg 
+18 Jun 11 15:59:56 - Fetching package details
+18 Jun 11 15:59:56 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:56 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CI.xml
+18 Jun 11 15:59:58 - Inserting/Updating wb-ci 
+18 Jun 11 15:59:58 - Fetching package details
+18 Jun 11 15:59:58 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:58 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CL.xml
+18 Jun 11 15:59:59 - Inserting/Updating wb-cl 
+18 Jun 11 15:59:59 - Fetching package details
+18 Jun 11 15:59:59 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 15:59:59 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CM.xml
+18 Jun 11 16:00:00 - Inserting/Updating wb-cm 
+18 Jun 11 16:00:00 - Fetching package details
+18 Jun 11 16:00:00 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:00 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CN.xml
+18 Jun 11 16:00:09 - Inserting/Updating wb-cn 
+18 Jun 11 16:00:09 - Fetching package details
+18 Jun 11 16:00:09 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:09 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CO.xml
+18 Jun 11 16:00:11 - Inserting/Updating wb-co 
+18 Jun 11 16:00:11 - Fetching package details
+18 Jun 11 16:00:12 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:12 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CR.xml
+18 Jun 11 16:00:13 - Inserting/Updating wb-cr 
+18 Jun 11 16:00:13 - Fetching package details
+18 Jun 11 16:00:13 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:13 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_CV.xml
+18 Jun 11 16:00:14 - Inserting/Updating wb-cv 
+18 Jun 11 16:00:14 - Fetching package details
+18 Jun 11 16:00:14 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:14 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_DJ.xml
+18 Jun 11 16:00:15 - Inserting/Updating wb-dj 
+18 Jun 11 16:00:15 - Fetching package details
+18 Jun 11 16:00:15 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:16 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_DM.xml
+18 Jun 11 16:00:16 - Inserting/Updating wb-dm 
+18 Jun 11 16:00:16 - Fetching package details
+18 Jun 11 16:00:16 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:16 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_DO.xml
+18 Jun 11 16:00:18 - Inserting/Updating wb-do 
+18 Jun 11 16:00:18 - Fetching package details
+18 Jun 11 16:00:18 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:18 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_DZ.xml
+18 Jun 11 16:00:19 - Inserting/Updating wb-dz 
+18 Jun 11 16:00:19 - Fetching package details
+18 Jun 11 16:00:19 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:19 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_EC.xml
+18 Jun 11 16:00:20 - Inserting/Updating wb-ec 
+18 Jun 11 16:00:20 - Fetching package details
+18 Jun 11 16:00:20 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:20 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_EE.xml
+18 Jun 11 16:00:21 - Inserting/Updating wb-ee 
+18 Jun 11 16:00:21 - Fetching package details
+18 Jun 11 16:00:21 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:21 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_EG.xml
+18 Jun 11 16:00:24 - Inserting/Updating wb-eg 
+18 Jun 11 16:00:24 - Fetching package details
+18 Jun 11 16:00:24 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:24 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ER.xml
+18 Jun 11 16:00:25 - Inserting/Updating wb-er 
+18 Jun 11 16:00:25 - Fetching package details
+18 Jun 11 16:00:25 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:25 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ET.xml
+18 Jun 11 16:00:27 - Inserting/Updating wb-et 
+18 Jun 11 16:00:27 - Fetching package details
+18 Jun 11 16:00:27 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:27 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_FJ.xml
+18 Jun 11 16:00:27 - Inserting/Updating wb-fj 
+18 Jun 11 16:00:27 - Fetching package details
+18 Jun 11 16:00:28 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:28 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GA.xml
+18 Jun 11 16:00:28 - Inserting/Updating wb-ga 
+18 Jun 11 16:00:28 - Fetching package details
+18 Jun 11 16:00:29 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806820 minutes.
+18 Jun 11 16:00:29 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GD.xml
+18 Jun 11 16:00:29 - Inserting/Updating wb-gd 
+18 Jun 11 16:00:29 - Fetching package details
+18 Jun 11 16:00:30 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:30 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GE.xml
+18 Jun 11 16:00:31 - Inserting/Updating wb-ge 
+18 Jun 11 16:00:31 - Fetching package details
+18 Jun 11 16:00:32 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:32 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GH.xml
+18 Jun 11 16:00:33 - Inserting/Updating wb-gh 
+18 Jun 11 16:00:33 - Fetching package details
+18 Jun 11 16:00:33 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:33 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GM.xml
+18 Jun 11 16:00:34 - Inserting/Updating wb-gm 
+18 Jun 11 16:00:34 - Fetching package details
+18 Jun 11 16:00:34 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:34 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GN.xml
+18 Jun 11 16:00:35 - Inserting/Updating wb-gn 
+18 Jun 11 16:00:35 - Fetching package details
+18 Jun 11 16:00:35 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:35 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GQ.xml
+18 Jun 11 16:00:36 - Inserting/Updating wb-gq 
+18 Jun 11 16:00:36 - Fetching package details
+18 Jun 11 16:00:36 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:36 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GT.xml
+18 Jun 11 16:00:37 - Inserting/Updating wb-gt 
+18 Jun 11 16:00:37 - Fetching package details
+18 Jun 11 16:00:38 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:38 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GW.xml
+18 Jun 11 16:00:39 - Inserting/Updating wb-gw 
+18 Jun 11 16:00:39 - Fetching package details
+18 Jun 11 16:00:39 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:39 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_GY.xml
+18 Jun 11 16:00:40 - Inserting/Updating wb-gy 
+18 Jun 11 16:00:40 - Fetching package details
+18 Jun 11 16:00:40 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:40 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_HN.xml
+18 Jun 11 16:00:42 - Inserting/Updating wb-hn 
+18 Jun 11 16:00:42 - Fetching package details
+18 Jun 11 16:00:42 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:42 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_HR.xml
+18 Jun 11 16:00:43 - Inserting/Updating wb-hr 
+18 Jun 11 16:00:43 - Fetching package details
+18 Jun 11 16:00:44 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:44 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_HT.xml
+18 Jun 11 16:00:45 - Inserting/Updating wb-ht 
+18 Jun 11 16:00:45 - Fetching package details
+18 Jun 11 16:00:45 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:45 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_HU.xml
+18 Jun 11 16:00:45 - Inserting/Updating wb-hu 
+18 Jun 11 16:00:45 - Fetching package details
+18 Jun 11 16:00:46 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:46 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ID.xml
+18 Jun 11 16:00:51 - Inserting/Updating wb-id 
+18 Jun 11 16:00:51 - Fetching package details
+18 Jun 11 16:00:52 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:00:52 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_IN.xml
+18 Jun 11 16:01:03 - Inserting/Updating wb-in 
+18 Jun 11 16:01:03 - Fetching package details
+18 Jun 11 16:01:03 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:03 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_IQ.xml
+18 Jun 11 16:01:04 - Inserting/Updating wb-iq 
+18 Jun 11 16:01:04 - Fetching package details
+18 Jun 11 16:01:04 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:04 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_IR.xml
+18 Jun 11 16:01:05 - Inserting/Updating wb-ir 
+18 Jun 11 16:01:05 - Fetching package details
+18 Jun 11 16:01:05 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:05 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_JM.xml
+18 Jun 11 16:01:06 - Inserting/Updating wb-jm 
+18 Jun 11 16:01:06 - Fetching package details
+18 Jun 11 16:01:06 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:06 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_JO.xml
+18 Jun 11 16:01:08 - Inserting/Updating wb-jo 
+18 Jun 11 16:01:08 - Fetching package details
+18 Jun 11 16:01:08 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:08 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_KE.xml
+18 Jun 11 16:01:12 - Inserting/Updating wb-ke 
+18 Jun 11 16:01:12 - Fetching package details
+18 Jun 11 16:01:12 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:12 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_KG.xml
+18 Jun 11 16:01:13 - Inserting/Updating wb-kg 
+18 Jun 11 16:01:13 - Fetching package details
+18 Jun 11 16:01:14 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:14 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_KH.xml
+18 Jun 11 16:01:15 - Inserting/Updating wb-kh 
+18 Jun 11 16:01:15 - Fetching package details
+18 Jun 11 16:01:15 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:15 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_KM.xml
+18 Jun 11 16:01:17 - Inserting/Updating wb-km 
+18 Jun 11 16:01:17 - Fetching package details
+18 Jun 11 16:01:17 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:17 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_KN.xml
+18 Jun 11 16:01:17 - Inserting/Updating wb-kn 
+18 Jun 11 16:01:17 - Fetching package details
+18 Jun 11 16:01:18 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:18 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_KR.xml
+18 Jun 11 16:01:18 - Inserting/Updating wb-kr 
+18 Jun 11 16:01:18 - Fetching package details
+18 Jun 11 16:01:18 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:18 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_KZ.xml
+18 Jun 11 16:01:19 - Inserting/Updating wb-kz 
+18 Jun 11 16:01:19 - Fetching package details
+18 Jun 11 16:01:20 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:20 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LA.xml
+18 Jun 11 16:01:22 - Inserting/Updating wb-la 
+18 Jun 11 16:01:22 - Fetching package details
+18 Jun 11 16:01:22 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:22 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LB.xml
+18 Jun 11 16:01:23 - Inserting/Updating wb-lb 
+18 Jun 11 16:01:23 - Fetching package details
+18 Jun 11 16:01:23 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:23 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LC.xml
+18 Jun 11 16:01:24 - Inserting/Updating wb-lc 
+18 Jun 11 16:01:24 - Fetching package details
+18 Jun 11 16:01:24 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:24 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LK.xml
+18 Jun 11 16:01:28 - Inserting/Updating wb-lk 
+18 Jun 11 16:01:28 - Fetching package details
+18 Jun 11 16:01:28 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:28 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LR.xml
+18 Jun 11 16:01:29 - Inserting/Updating wb-lr 
+18 Jun 11 16:01:29 - Fetching package details
+18 Jun 11 16:01:29 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806821 minutes.
+18 Jun 11 16:01:29 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LS.xml
+18 Jun 11 16:01:31 - Inserting/Updating wb-ls 
+18 Jun 11 16:01:31 - Fetching package details
+18 Jun 11 16:01:31 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:31 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LT.xml
+18 Jun 11 16:01:31 - Inserting/Updating wb-lt 
+18 Jun 11 16:01:31 - Fetching package details
+18 Jun 11 16:01:32 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:32 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_LV.xml
+18 Jun 11 16:01:32 - Inserting/Updating wb-lv 
+18 Jun 11 16:01:32 - Fetching package details
+18 Jun 11 16:01:32 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:32 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MA.xml
+18 Jun 11 16:01:35 - Inserting/Updating wb-ma 
+18 Jun 11 16:01:35 - Fetching package details
+18 Jun 11 16:01:35 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:35 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MD.xml
+18 Jun 11 16:01:37 - Inserting/Updating wb-md 
+18 Jun 11 16:01:37 - Fetching package details
+18 Jun 11 16:01:37 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:37 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ME.xml
+18 Jun 11 16:01:38 - Inserting/Updating wb-me 
+18 Jun 11 16:01:38 - Fetching package details
+18 Jun 11 16:01:38 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:38 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MG.xml
+18 Jun 11 16:01:39 - Inserting/Updating wb-mg 
+18 Jun 11 16:01:39 - Fetching package details
+18 Jun 11 16:01:39 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:39 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MK.xml
+18 Jun 11 16:01:41 - Inserting/Updating wb-mk 
+18 Jun 11 16:01:41 - Fetching package details
+18 Jun 11 16:01:41 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:41 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ML.xml
+18 Jun 11 16:01:42 - Inserting/Updating wb-ml 
+18 Jun 11 16:01:42 - Fetching package details
+18 Jun 11 16:01:43 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:43 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MN.xml
+18 Jun 11 16:01:44 - Inserting/Updating wb-mn 
+18 Jun 11 16:01:44 - Fetching package details
+18 Jun 11 16:01:44 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:44 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MR.xml
+18 Jun 11 16:01:46 - Inserting/Updating wb-mr 
+18 Jun 11 16:01:46 - Fetching package details
+18 Jun 11 16:01:46 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:46 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MU.xml
+18 Jun 11 16:01:47 - Inserting/Updating wb-mu 
+18 Jun 11 16:01:47 - Fetching package details
+18 Jun 11 16:01:47 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:47 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MV.xml
+18 Jun 11 16:01:48 - Inserting/Updating wb-mv 
+18 Jun 11 16:01:48 - Fetching package details
+18 Jun 11 16:01:48 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:48 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MW.xml
+18 Jun 11 16:01:50 - Inserting/Updating wb-mw 
+18 Jun 11 16:01:50 - Fetching package details
+18 Jun 11 16:01:50 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:50 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MX.xml
+18 Jun 11 16:01:52 - Inserting/Updating wb-mx 
+18 Jun 11 16:01:52 - Fetching package details
+18 Jun 11 16:01:52 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:52 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MY.xml
+18 Jun 11 16:01:52 - Inserting/Updating wb-my 
+18 Jun 11 16:01:52 - Fetching package details
+18 Jun 11 16:01:52 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:52 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_MZ.xml
+18 Jun 11 16:01:54 - Inserting/Updating wb-mz 
+18 Jun 11 16:01:54 - Fetching package details
+18 Jun 11 16:01:54 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:54 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_NA.xml
+18 Jun 11 16:01:55 - Inserting/Updating wb-na 
+18 Jun 11 16:01:55 - Fetching package details
+18 Jun 11 16:01:55 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:55 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_NE.xml
+18 Jun 11 16:01:56 - Inserting/Updating wb-ne 
+18 Jun 11 16:01:56 - Fetching package details
+18 Jun 11 16:01:56 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:56 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_NG.xml
+18 Jun 11 16:01:58 - Inserting/Updating wb-ng 
+18 Jun 11 16:01:58 - Fetching package details
+18 Jun 11 16:01:59 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:01:59 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_NI.xml
+18 Jun 11 16:02:00 - Inserting/Updating wb-ni 
+18 Jun 11 16:02:00 - Fetching package details
+18 Jun 11 16:02:01 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:01 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_NP.xml
+18 Jun 11 16:02:03 - Inserting/Updating wb-np 
+18 Jun 11 16:02:03 - Fetching package details
+18 Jun 11 16:02:04 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:04 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/IATI_ORG.xml
+18 Jun 11 16:02:04 - Inserting/Updating wb-org 
+18 Jun 11 16:02:04 - Fetching package details
+18 Jun 11 16:02:04 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:04 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_PA.xml
+18 Jun 11 16:02:05 - Inserting/Updating wb-pa 
+18 Jun 11 16:02:05 - Fetching package details
+18 Jun 11 16:02:06 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:06 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_PE.xml
+18 Jun 11 16:02:08 - Inserting/Updating wb-pe 
+18 Jun 11 16:02:08 - Fetching package details
+18 Jun 11 16:02:08 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:08 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_PG.xml
+18 Jun 11 16:02:09 - Inserting/Updating wb-pg 
+18 Jun 11 16:02:09 - Fetching package details
+18 Jun 11 16:02:09 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:09 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_PH.xml
+18 Jun 11 16:02:12 - Inserting/Updating wb-ph 
+18 Jun 11 16:02:12 - Fetching package details
+18 Jun 11 16:02:12 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:12 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_PK.xml
+18 Jun 11 16:02:17 - Inserting/Updating wb-pk 
+18 Jun 11 16:02:17 - Fetching package details
+18 Jun 11 16:02:17 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:17 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_PL.xml
+18 Jun 11 16:02:18 - Inserting/Updating wb-pl 
+18 Jun 11 16:02:18 - Fetching package details
+18 Jun 11 16:02:18 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:18 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_PY.xml
+18 Jun 11 16:02:20 - Inserting/Updating wb-py 
+18 Jun 11 16:02:20 - Fetching package details
+18 Jun 11 16:02:20 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:20 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_RO.xml
+18 Jun 11 16:02:22 - Inserting/Updating wb-ro 
+18 Jun 11 16:02:22 - Fetching package details
+18 Jun 11 16:02:22 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:22 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_RS.xml
+18 Jun 11 16:02:23 - Inserting/Updating wb-rs 
+18 Jun 11 16:02:23 - Fetching package details
+18 Jun 11 16:02:23 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:23 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_RU.xml
+18 Jun 11 16:02:25 - Inserting/Updating wb-ru 
+18 Jun 11 16:02:25 - Fetching package details
+18 Jun 11 16:02:26 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:26 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_RW.xml
+18 Jun 11 16:02:27 - Inserting/Updating wb-rw 
+18 Jun 11 16:02:27 - Fetching package details
+18 Jun 11 16:02:27 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:27 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SB.xml
+18 Jun 11 16:02:28 - Inserting/Updating wb-sb 
+18 Jun 11 16:02:28 - Fetching package details
+18 Jun 11 16:02:28 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:28 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SC.xml
+18 Jun 11 16:02:29 - Inserting/Updating wb-sc 
+18 Jun 11 16:02:29 - Fetching package details
+18 Jun 11 16:02:29 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806822 minutes.
+18 Jun 11 16:02:29 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SI.xml
+18 Jun 11 16:02:29 - Inserting/Updating wb-si 
+18 Jun 11 16:02:29 - Fetching package details
+18 Jun 11 16:02:30 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:30 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SK.xml
+18 Jun 11 16:02:30 - Inserting/Updating wb-sk 
+18 Jun 11 16:02:30 - Fetching package details
+18 Jun 11 16:02:30 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:30 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SL.xml
+18 Jun 11 16:02:31 - Inserting/Updating wb-sl 
+18 Jun 11 16:02:31 - Fetching package details
+18 Jun 11 16:02:31 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:31 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SN.xml
+18 Jun 11 16:02:33 - Inserting/Updating wb-sn 
+18 Jun 11 16:02:33 - Fetching package details
+18 Jun 11 16:02:33 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:33 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ST.xml
+18 Jun 11 16:02:34 - Inserting/Updating wb-st 
+18 Jun 11 16:02:34 - Fetching package details
+18 Jun 11 16:02:34 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:34 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SV.xml
+18 Jun 11 16:02:35 - Inserting/Updating wb-sv 
+18 Jun 11 16:02:35 - Fetching package details
+18 Jun 11 16:02:35 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:35 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SY.xml
+18 Jun 11 16:02:36 - Inserting/Updating wb-sy 
+18 Jun 11 16:02:36 - Fetching package details
+18 Jun 11 16:02:36 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:36 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_SZ.xml
+18 Jun 11 16:02:37 - Inserting/Updating wb-sz 
+18 Jun 11 16:02:37 - Fetching package details
+18 Jun 11 16:02:37 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:37 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TD.xml
+18 Jun 11 16:02:39 - Inserting/Updating wb-td 
+18 Jun 11 16:02:39 - Fetching package details
+18 Jun 11 16:02:39 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:39 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TG.xml
+18 Jun 11 16:02:40 - Inserting/Updating wb-tg 
+18 Jun 11 16:02:40 - Fetching package details
+18 Jun 11 16:02:41 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:41 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TH.xml
+18 Jun 11 16:02:41 - Inserting/Updating wb-th 
+18 Jun 11 16:02:41 - Fetching package details
+18 Jun 11 16:02:41 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:41 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TJ.xml
+18 Jun 11 16:02:43 - Inserting/Updating wb-tj 
+18 Jun 11 16:02:43 - Fetching package details
+18 Jun 11 16:02:43 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:43 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TL.xml
+18 Jun 11 16:02:44 - Inserting/Updating wb-tl 
+18 Jun 11 16:02:44 - Fetching package details
+18 Jun 11 16:02:44 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:44 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TM.xml
+18 Jun 11 16:02:44 - Inserting/Updating wb-tm 
+18 Jun 11 16:02:44 - Fetching package details
+18 Jun 11 16:02:45 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:45 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TN.xml
+18 Jun 11 16:02:47 - Inserting/Updating wb-tn 
+18 Jun 11 16:02:47 - Fetching package details
+18 Jun 11 16:02:47 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:47 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TO.xml
+18 Jun 11 16:02:47 - Inserting/Updating wb-to 
+18 Jun 11 16:02:47 - Fetching package details
+18 Jun 11 16:02:48 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:48 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TR.xml
+18 Jun 11 16:02:50 - Inserting/Updating wb-tr 
+18 Jun 11 16:02:50 - Fetching package details
+18 Jun 11 16:02:50 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:50 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TT.xml
+18 Jun 11 16:02:51 - Inserting/Updating wb-tt 
+18 Jun 11 16:02:51 - Fetching package details
+18 Jun 11 16:02:51 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:51 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TW.xml
+18 Jun 11 16:02:52 - Inserting/Updating wb-tw 
+18 Jun 11 16:02:52 - Fetching package details
+18 Jun 11 16:02:52 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:52 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_TZ.xml
+18 Jun 11 16:02:54 - Inserting/Updating wb-tz 
+18 Jun 11 16:02:54 - Fetching package details
+18 Jun 11 16:02:54 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:54 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_UA.xml
+18 Jun 11 16:02:56 - Inserting/Updating wb-ua 
+18 Jun 11 16:02:56 - Fetching package details
+18 Jun 11 16:02:56 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:56 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_UG.xml
+18 Jun 11 16:02:58 - Inserting/Updating wb-ug 
+18 Jun 11 16:02:58 - Fetching package details
+18 Jun 11 16:02:58 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:02:58 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_UY.xml
+18 Jun 11 16:03:00 - Inserting/Updating wb-uy 
+18 Jun 11 16:03:00 - Fetching package details
+18 Jun 11 16:03:00 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:00 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_UZ.xml
+18 Jun 11 16:03:01 - Inserting/Updating wb-uz 
+18 Jun 11 16:03:01 - Fetching package details
+18 Jun 11 16:03:01 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:01 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_VC.xml
+18 Jun 11 16:03:02 - Inserting/Updating wb-vc 
+18 Jun 11 16:03:02 - Fetching package details
+18 Jun 11 16:03:02 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:02 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_VN.xml
+18 Jun 11 16:03:05 - Inserting/Updating wb-vn 
+18 Jun 11 16:03:05 - Fetching package details
+18 Jun 11 16:03:06 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:06 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_VU.xml
+18 Jun 11 16:03:06 - Inserting/Updating wb-vu 
+18 Jun 11 16:03:06 - Fetching package details
+18 Jun 11 16:03:06 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:06 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_WS.xml
+18 Jun 11 16:03:07 - Inserting/Updating wb-ws 
+18 Jun 11 16:03:07 - Fetching package details
+18 Jun 11 16:03:08 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:08 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_YE.xml
+18 Jun 11 16:03:11 - Inserting/Updating wb-ye 
+18 Jun 11 16:03:11 - Fetching package details
+18 Jun 11 16:03:12 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:12 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ZA.xml
+18 Jun 11 16:03:12 - Inserting/Updating wb-za 
+18 Jun 11 16:03:12 - Fetching package details
+18 Jun 11 16:03:12 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:12 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ZM.xml
+18 Jun 11 16:03:14 - Inserting/Updating wb-zm 
+18 Jun 11 16:03:14 - Fetching package details
+18 Jun 11 16:03:14 - Exist version last updated 01 Jan 1970 01:00:00. Time difference 21806823 minutes.
+18 Jun 11 16:03:14 - Checking last updated time of http://siteresources.worldbank.org/INTSOPE/Resources/5929468-1305310586289/WB_ZW.xml
+18 Jun 11 16:03:14 - Inserting/Updating wb-zw 
+21 Jun 11 11:17:28 - Database connection established to eXist
+21 Jun 11 11:17:28 - Loading current list of datasets
+21 Jun 11 11:17:28 - List of datasets loaded. 264 datasets available
+21 Jun 11 11:17:28 - Fetching package list from the registry
+21 Jun 11 11:17:28 - Packages fetched
+21 Jun 11 11:17:28 - Fetching package details
+21 Jun 11 11:17:28 - 9aca73a8-c229-4fa1-8f39-ced49fa2415f cached. Age 4044 minutes. Fetching new version.
+21 Jun 11 11:17:29 - Exist version last updated 18 Jun 2011 15:55:05. Time difference 4042 minutes.
+21 Jun 11 11:17:29 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/189
+21 Jun 11 11:17:34 - Inserting/Updating dfid-189 
+21 Jun 11 11:17:34 - Fetching package details
+21 Jun 11 11:17:34 - 39170239-5ec3-4ab0-b0bc-e2f445f00fae cached. Age 4042 minutes. Fetching new version.
+21 Jun 11 11:17:34 - Exist version last updated 18 Jun 2011 15:55:06. Time difference 4042 minutes.
+21 Jun 11 11:17:34 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/289
+21 Jun 11 11:17:38 - Inserting/Updating dfid-289 
+21 Jun 11 11:17:38 - Fetching package details
+21 Jun 11 11:17:38 - da9deb45-6601-48e0-af07-5f84c741261e cached. Age 4041 minutes. Fetching new version.
+21 Jun 11 11:17:38 - Exist version last updated 18 Jun 2011 15:56:20. Time difference 4041 minutes.
+21 Jun 11 11:17:38 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/298
+21 Jun 11 11:59:47 - Database connection established to eXist
+21 Jun 11 11:59:47 - Loading current list of datasets
+21 Jun 11 11:59:47 - List of datasets loaded. 264 datasets available
+21 Jun 11 11:59:47 - Fetching package list from the registry
+21 Jun 11 11:59:47 - Packages fetched
+21 Jun 11 11:59:47 - Fetching package details
+21 Jun 11 11:59:47 - 9aca73a8-c229-4fa1-8f39-ced49fa2415f cached. Age 42 minutes. Using cached version.
+21 Jun 11 11:59:47 - Exist version last updated 21 Jun 2011 11:17:30. Time difference 42 minutes.
+21 Jun 11 11:59:47 - dfid-189 is already up to date in eXist: only 1 hours old.
+21 Jun 11 11:59:47 - Fetching package details
+21 Jun 11 11:59:47 - 39170239-5ec3-4ab0-b0bc-e2f445f00fae cached. Age 42 minutes. Using cached version.
+21 Jun 11 11:59:47 - Exist version last updated 21 Jun 2011 11:17:35. Time difference 42 minutes.
+21 Jun 11 11:59:47 - dfid-289 is already up to date in eXist: only 1 hours old.
+21 Jun 11 11:59:47 - Fetching package details
+21 Jun 11 11:59:47 - da9deb45-6601-48e0-af07-5f84c741261e cached. Age 42 minutes. Using cached version.
+21 Jun 11 11:59:47 - Exist version last updated 21 Jun 2011 11:17:43. Time difference 42 minutes.
+21 Jun 11 11:59:47 - dfid-298 is already up to date in eXist: only 1 hours old.
+21 Jun 11 11:59:47 - Fetching package details
+21 Jun 11 11:59:47 - 3ccb8ae2-0c7c-4790-b3f6-44eef75e6f5f cached. Age 4083 minutes. Fetching new version.
+21 Jun 11 11:59:48 - Exist version last updated 18 Jun 2011 15:56:24. Time difference 4083 minutes.
+21 Jun 11 11:59:48 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/380
+21 Jun 11 11:59:56 - Inserting/Updating dfid-380 
+21 Jun 11 11:59:56 - Fetching package details
+21 Jun 11 11:59:56 - bf335e51-6dd3-4cbd-b3d2-60d2b2f64974 cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 11:59:56 - Exist version last updated 18 Jun 2011 15:56:25. Time difference 4084 minutes.
+21 Jun 11 11:59:56 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/589
+21 Jun 11 11:59:58 - Inserting/Updating dfid-589 
+21 Jun 11 11:59:58 - Fetching package details
+21 Jun 11 11:59:58 - 71121b1f-4344-4875-b987-57b0033a8e92 cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 11:59:58 - Exist version last updated 18 Jun 2011 15:56:26. Time difference 4084 minutes.
+21 Jun 11 11:59:58 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/798
+21 Jun 11 12:00:08 - Inserting/Updating dfid-798 
+21 Jun 11 12:00:08 - Fetching package details
+21 Jun 11 12:00:08 - 54d297a4-1675-45ce-9e30-85abdabdb94d cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 12:00:08 - Exist version last updated 18 Jun 2011 15:56:27. Time difference 4084 minutes.
+21 Jun 11 12:00:08 - Checking last updated time of http://projects.dfid.gov.uk/iati/Region/89
+21 Jun 11 12:00:09 - Inserting/Updating dfid-89 
+21 Jun 11 12:00:09 - Fetching package details
+21 Jun 11 12:00:09 - 1ded1826-a420-44dc-bfd1-908f0e207977 cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 12:00:09 - Exist version last updated 18 Jun 2011 15:56:27. Time difference 4084 minutes.
+21 Jun 11 12:00:09 - Checking last updated time of http://projects.dfid.gov.uk/iati/NonIATI/AC
+21 Jun 11 12:00:10 - Inserting/Updating dfid-ac 
+21 Jun 11 12:00:10 - Fetching package details
+21 Jun 11 12:00:10 - bbe47f4c-76b7-47ff-9640-3954c7733478 cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 12:00:10 - Exist version last updated 18 Jun 2011 15:56:30. Time difference 4084 minutes.
+21 Jun 11 12:00:10 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AF
+21 Jun 11 12:00:17 - Inserting/Updating dfid-af 
+21 Jun 11 12:00:17 - Fetching package details
+21 Jun 11 12:00:17 - 29db82b1-3a37-4055-9648-04208c8cfb0a cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 12:00:18 - Exist version last updated 18 Jun 2011 15:56:31. Time difference 4084 minutes.
+21 Jun 11 12:00:18 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AL
+21 Jun 11 12:00:21 - Inserting/Updating dfid-al 
+21 Jun 11 12:00:21 - Fetching package details
+21 Jun 11 12:00:21 - eccbdc0f-5be7-4b0c-b468-ba18bd40dea6 cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 12:00:21 - Exist version last updated 18 Jun 2011 15:56:31. Time difference 4084 minutes.
+21 Jun 11 12:00:21 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AO
+21 Jun 11 12:00:22 - Inserting/Updating dfid-ao 
+21 Jun 11 12:00:22 - Fetching package details
+21 Jun 11 12:00:22 - dac92a74-4cb8-4cc2-aecc-caf7306336de cached. Age 4084 minutes. Fetching new version.
+21 Jun 11 12:00:22 - Exist version last updated 18 Jun 2011 15:56:32. Time difference 4084 minutes.
+21 Jun 11 12:00:22 - Checking last updated time of http://projects.dfid.gov.uk/iati/Country/AS
