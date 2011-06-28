@@ -1,10 +1,5 @@
 <?php
-define("EXIST_URI","http://tools.aidinfolabs.org/exist/rest/");
-define("EXIST_DB","/db/iati");
-define("QUERY_ENTITY","//iati-activities/iati-activity"); //What sort of things are we aiming to fetch
-define("CODELIST_API","http://dev.yipl.com.np/iati/tools/public/api/");
-define("CODELIST_API_SUFFIX","/en/json");
-
+include_once("../config/config.php"); 
 define("CACHE_LIFETIME",3600);
 include_once("../functions/cache.php"); 
 
@@ -19,7 +14,7 @@ function xpathValues($xpath,$multiple=false,$entity=QUERY_ENTITY,$cache_lifetime
 		
 		$queryURL = EXIST_URI.EXIST_DB.'?_query=for $x in fn:distinct-values('.$xpath.') return ($x,$x)';
 		
-		echo "Fetching".$queryURL;
+		//echo "Fetching".$queryURL;
 		$xml = simplexml_load_file($queryURL);
 		print_r($xml);
 	

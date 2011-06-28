@@ -1,0 +1,70 @@
+	div.facet, div.action {
+		width:45%;
+		display: inline-block;
+		vertical-align: top;
+		margin: 5px;
+	}
+	
+	span.action {
+		font-weight:bold;			
+		text-align:center;
+		display:block;
+		font-size:12pt;
+	}
+	
+	div.action {
+		font-size:8pt;
+		text-align:center;
+	}
+	
+	div.wide {
+		width:95%;
+		display: block;
+		vertical-align: top;
+		margin: 5px;
+		clear-left:all;
+	}
+	
+	.wide select {
+		max-width:400px;
+	}
+
+	.config {
+		display:none;
+	}
+	
+	.note {
+		font-size:smaller;
+		display:block;
+		
+	}
+	
+	.intro {
+		padding-top:10px;
+		padding-bottom:10px;
+	}
+	
+	.explorer {
+		border: 2px solid #EA600A;
+	}
+	
+	.tool {
+		display:block;
+		padding:10px;
+		margin-top:10px;
+	}
+	.tool-details {
+		display:block;
+	}
+	
+	.tool-link {
+		display:block;
+		border: 2px solid #EA600A;
+		width:200px;
+		text-decoration:none;
+		margin-top:5px;
+		padding:2px;
+		float:right;
+		text-align:center;
+		clear:all;
+	}

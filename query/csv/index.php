@@ -1,22 +1,27 @@
 <?php
-
+include("../config/config.php");
 	
 function count_results_file($file) {
 	if(is_int($_GET['total'])) { 
 	 	return $_GET['total'];
 	} else {
-		$data = file_get_contents("http://".$_SERVER['HTTP_HOST']."/exist/rest//db/iati/".$file."?_query=count(//iati-activity)");
+		$data = file_get_contents(EXIST_URI.EXIST_DB."/".$file."?_query=count(//iati-activity)");
 		return trim(strip_tags($data));
 	}
 }
 
 function last_updated($file) {
-	$xml = simplexml_load_file("http://".$_SERVER['HTTP_HOST']."/exist/rest//db/iati/");
+
+	$xml = simplexml_load_file(EXIST_URI.EXIST_DB);
 	$xml->registerXPathNamespace('exist', 'http://exist.sourceforge.net/NS/exist');
-	$last_updated = $xml->xpath("//exist:resource[name='".$file."']");
+	$last_updated = $xml->xpath("//exist:resource[@name='".$file."']");
+
 	foreach($last_updated as $node) {
-		echo $node->attribute("last-modified",1);
-		return $node->attribute("last-modified",1);
+		foreach($node->attributes() as $att => $value) { 
+		    if ($att == "last-modified") { 
+				return $value;
+		    } 
+		  }
 	}
 		return null;
 }
@@ -145,7 +150,7 @@ if($file = $_GET["file"]) {
 
 	if($updated = last_updated($file)) {
 	
-		echo "<p>Our records for ".$file." were last updated on ". date("D M Y \a\t h:m",strtotime($updated))." </p>"
+		echo "<p>Our records for ".$file." were last updated on ". date("D M Y H:m",strtotime($updated))." </p>";
 		
 		echo "<div class='result-count'>This file contains ".$total."activities. It may contain more or less transactions.</div>";
 		
@@ -153,7 +158,7 @@ if($file = $_GET["file"]) {
 
 	
 	} else {
-		echo "<p>We do not have a record for the file you have requested. It is possible it has not yet been fetched, or is no longer available from the <a href=\"http://www.iatiregistry.org\">IATI Registry</a>. This service may be up to 24 hours behind the IATI Registry."
+		echo "<p>We do not have a record for the file you have requested. It is possible it has not yet been fetched, or is no longer available from the <a href=\"http://www.iatiregistry.org\">IATI Registry</a>. This service may be up to 24 hours behind the IATI Registry.";
 	
 	}
 
@@ -187,7 +192,7 @@ if($file = $_GET["file"]) {
 											If you want to fetch this data direct and page through results in your own applications, you can use the following URL. Use the '_start' and '_howmany' parameters for paging, and the _xsl parameter to apply a style sheet to the results. Stylesheets can be loaded over the Internet, although output will be XML and your application will need to handle any content type selection required. Check the exist:hits and exist:count values in XML output to see how far you need to page through the results. 
 										</p>
 										<p>
-											<input type="text" size="60" value="<?php echo "http://".$_SERVER['HTTP_HOST']."/exist/rest//db/iati/?_query=".$_GET['query'].($_GET["xsl"] ? "&_xsl=".$_GET["xsl"] : null); ?>">
+											<input type="text" size="60" value="<?php echo EXIST_URI.EXIST_DB."?_query=".$_GET['query'].($_GET["xsl"] ? "&_xsl=".$_GET["xsl"] : null); ?>">
 										</p>
 									</div>	
 									
