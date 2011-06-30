@@ -58,6 +58,11 @@ include_once("query_functions.php");
 								<span id="querylink"><a href="/exist/rest//db/iati?_query=//iati-activities" target="_blank">Run query</a></span>
 								</p>
 								
+								<h3>Current Query</h3>
+								<p>
+									<span class="human_query">Any project</span>
+								</p>
+								
 								<h3>Actions</h3>
 									<div class="intro">
 										Run your filtered XML query using the link above, or select from the actions to explore the data in different ways.	
@@ -82,11 +87,12 @@ include_once("query_functions.php");
 
 									<div class="action url explorer">
 										<span class="action url" id=""><a href="#" class="target" target="_blank">IATI Explorer</a></span>
-										<span class="config">/explorer/?q=QUERY</span>
+										<span class="config">/explorer/?query=QUERY</span>
 										Explore the data in an interactive interface. Includes features to export as Tab-Separated Values (TSV).
 									</div>
 								
 								<a name="query-options"><h3>Query Options</h3></a>
+								<input type="reset" value="Reset query" class="reset-button">
 								
 								<div class="facet wide"><h4>Funding Org</h4>
 								<?php echo generateSelect("participating-org/@ref",1,null,"participating-org[@role='Funding']"); ?>

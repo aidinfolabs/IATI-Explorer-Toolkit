@@ -36,7 +36,7 @@ function generateSelect($id = null, $multiple = false, $codelist = null, $list =
 		$data = array("NA"=>"No values available");
 	}
 	
-	$output.="<select name=\"".$id."\"".($multiple ? " MULTIPLE": "").">";
+	$output.="<select name=\"".$id."\"".($multiple ? " MULTIPLE": "")." class='facet'>";
 		foreach($data as $code => $name) {
 			$output .= "<option value='$code'>$name</option>";
 		}
