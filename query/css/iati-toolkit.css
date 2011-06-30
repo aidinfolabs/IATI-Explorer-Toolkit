@@ -48,6 +48,10 @@
 		border: 2px solid #EA600A;
 	}
 	
+	.reset-button {
+		float:right;
+	}
+	
 	.tool {
 		display:block;
 		padding:10px;

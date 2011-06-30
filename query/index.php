@@ -71,7 +71,7 @@ include("config/config.php");
 						<h3 class="tool-details">Query Builder</h3> 
 						<span class="tool-information">
 							The Query Builder is a javascript application that helps you create XPATH queries to filter and fetch only the IATI data you are interested in. Filter by recipient country, funding organisation, policy markers and other factors. 							
-							<span class="tool-link"><a href="/csv/">Visit the Query Builder</a></span>
+							<span class="tool-link"><a href="/query/">Visit the Query Builder</a></span>
 						</span>
 						</div>
 						
@@ -94,7 +94,7 @@ include("config/config.php");
 						<div class="tool">
 						<h3 class="tool-details">Lists Service</h3>
 						<span class="tool-information">
-							Generates a list of all the <a href="/list/?list=participating-org[@role='Funding']" target="_blank">funding</a>, <a href="/list/?list=participating-org" target="_blank">participating</a> or <a href="/list/?list=reporting-org" target="_blank">reporting organisations</a> currently known in the dataset as a JSON file.
+							Generates a list of all the <a href="/lists/?list=participating-org[@role='Funding']" target="_blank">funding</a>, <a href="/lists/?list=participating-org" target="_blank">participating</a> or <a href="/lists/?list=reporting-org" target="_blank">reporting organisations</a> currently known in the dataset as a JSON file, or as CSV if you add '&amp;format=csv' to the end of the URL.
 						</span>
 						</div>
 						

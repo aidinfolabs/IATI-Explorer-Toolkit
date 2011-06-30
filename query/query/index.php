@@ -2,62 +2,8 @@
 include_once("../config/config.php"); 
 define("CACHE_LIFETIME",3600);
 include_once("../functions/cache.php"); 
+include_once("query_functions.php"); 
 
-function xpathValues($xpath,$multiple=false,$entity=QUERY_ENTITY,$cache_lifetime=CACHE_LIFETIME) {
-	global $cache_options;
-	
-	if ($data = $Cache_Lite->get(md5($xpath))) {
-		
-
-	} else { 
-		$queryURL = EXIST_URI.EXIST_DB."?_query=fn:distinct-value(".$xpath.")&_howmany=100";
-		
-		$queryURL = EXIST_URI.EXIST_DB.'?_query=for $x in fn:distinct-values('.$xpath.') return ($x,$x)';
-		
-		//echo "Fetching".$queryURL;
-		$xml = simplexml_load_file($queryURL);
-		print_r($xml);
-	
-//	    $Cache_Lite->save($data);
-
-	}
-
-	$output.="<select name='".$xpath."'".($multiple ? " MULTIPLE": "").">";
-
-	$output .= "</select>";
-	
-}
-
-function codeListValues($codelist = null) {
-
-		$cache_life = 86400 + (rand(0,14400)-7200); //Set cache to 1 day +/- 2 hours so that cache refresh is staged (i.e. one page load doesn't get hit by it all)
-
-		$codelist_data = json_decode(c_file_get_contents(CODELIST_API."codelists/".$codelist.CODELIST_API_SUFFIX,$cache_life));
-		foreach($codelist_data->codelist->$codelist as $code) {
-			$data[$code->code] = $code->name; 
-		}
-
-		return $data;
-}
-
-function generateSelect($id = null, $multiple = false, $codelist = null, $xpath = array()) {
-
-	if($codelist) {
-		$data = codeListValues($codelist);
-	} elseif(count($xpath)) {
-		$data = xpathValues($xpath);
-	} else {
-		$data = array("NA"=>"No values available");
-	}
-	
-	$output.="<select name=\"".$id."\"".($multiple ? " MULTIPLE": "").">";
-		foreach($data as $code => $name) {
-			$output .= "<option value='$code'>$name</option>";
-		}
-	$output .= "</select>";
-
-	return $output;	
-}
 
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
@@ -76,58 +22,7 @@ function generateSelect($id = null, $multiple = false, $codelist = null, $xpath 
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script> 	
 	<script type="text/javascript" src="/js/iati-query-builder.js"></script> 
 	<script type="text/javascript" src="/js/jquery.unescape.js"></script> 
-	<style><!--
-		div.facet, div.action {
-			width:45%;
-			display: inline-block;
-			vertical-align: top;
-			margin: 5px;
-		}
-		
-		span.action {
-			font-weight:bold;			
-			text-align:center;
-			display:block;
-			font-size:12pt;
-		}
-		
-		div.action {
-			font-size:8pt;
-			text-align:center;
-		}
-		
-		div.wide {
-			width:95%;
-			display: block;
-			vertical-align: top;
-			margin: 5px;
-			clear-left:all;
-		}
-		
-		.wide select {
-			max-width:400px;
-		}
-	
-		.config {
-			display:none;
-		}
-		
-		.note {
-			font-size:smaller;
-			display:block;
-			
-		}
-		
-		.intro {
-			padding-top:10px;
-			padding-bottom:10px;
-		}
-		
-		.explorer {
-			border: 2px solid #EA600A;
-		}
-		
-	--></style>	
+	<link rel="stylesheet" type="text/css" media="all" href="/css/iati-toolkit.css" />	
 </head>
 <body>
 	<div id="wrapper" class="hfeed">
@@ -137,8 +32,6 @@ function generateSelect($id = null, $multiple = false, $codelist = null, $xpath 
 	            	<img src="/images/iati-toolkit-logo-draft.png" border="0" />
 	                <div id="site-description">a collection of tools for working with IATI Data</div>
 	            </div><!-- #branding -->
-
-
 				<div id="access" class="access clearfix" role="navigation">
 				  				<div class="skip-link screen-reader-text"><a href="#content" title="Skip to content">Skip to content</a></div>
 									<div class="menu"><?php include("../includes/menu.inc.php"); ?></div>			</div><!-- #access -->
@@ -194,6 +87,11 @@ function generateSelect($id = null, $multiple = false, $codelist = null, $xpath 
 									</div>
 								
 								<a name="query-options"><h3>Query Options</h3></a>
+								
+								<div class="facet wide"><h4>Funding Org</h4>
+								<?php echo generateSelect("participating-org/@ref",1,null,"participating-org[@role='Funding']"); ?>
+								</div>
+								
 								<div class="facet"><h4>Recipient Country</h4>
 								<?php echo generateSelect("recipient-country/@code",1,"Country"); ?>
 								</div>
