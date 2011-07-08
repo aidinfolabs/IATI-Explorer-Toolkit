@@ -7,9 +7,12 @@ function listValues($list) {
 
 	$codelist_data = json_decode(c_file_get_contents($list_server."?list=$list",$cache_life));
 
+	$n = 1;
 	foreach($codelist_data->codelist->items as $code) {
-		$data[$code->code] = $code->name; 
+			$key = (string)$code->code ? (string)$code->code : "missing-code-".$n++;
+			$data[$key] = $code->name;
 	}
+	asort($data);
 
 	return $data;
 }

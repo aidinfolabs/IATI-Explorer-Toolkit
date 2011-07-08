@@ -101,12 +101,12 @@
 							<?php
 								if($query = $_GET["query"]) { 
 									$total = count_results($query);
-									$howmany = $_GET['howmany'] ? $_GET['howmany'] : 100;
-									if($howmany > 1000) { $howmany = 1000; }
+									$howmany = $_GET['howmany'] ? $_GET['howmany'] : 500;
+									if($howmany > 10000) { $howmany = 10000; }
 									echo "<div class='result-count'>Your query returned ".$total." results</div>";
 									
 									if($total < $howmany) { 
-										$url = "fetch.php?query=".$_GET['query']."&howmany=$howmany&xsl=".$_GET['xsl']."&format=".$_GET['format']."&page=$pn";
+										$url = "fetch.php?query=".$_GET['query']."&howmany=$howmany&xsl=".$_GET['xsl']."&format=".$_GET['format']."&page=1";
 										echo "<p>You can fetch your data in a single file. Click the link below to download.</p>";
 										echo "<p><a href=\"$url\">Download $total entries</a></p>";
 									} else {

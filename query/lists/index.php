@@ -5,11 +5,15 @@ header ("Content-Type:text/xml");
 
 $list = $_GET['list'];
 $code = "ref";
+if($list == "sector") {
+	$code = "code";
+}
 
 //Get Ref
 function getRef($node) {
-	if(strlen(trim($node['ref'])) > 0) {
-		return (string)$node['ref'];
+	global $code;
+	if(strlen(trim($node[$code])) > 0) {
+		return (string)$node[$code];
 	} else {
 		return "tmp_".strtolower(str_replace(array("."),"",str_replace(array(" ",","),"_",(string)$node)));
 	}
@@ -17,7 +21,7 @@ function getRef($node) {
 
 //Fetch Distinct
 function fetchDistinct($list) {
-
+global $code;
 $query = <<<EOF
 		xquery version "1.0";
 		declare option exist:serialize "method=xml media-type=text/xml omit-xml-declaration=no";
@@ -47,7 +51,7 @@ EOF;
 
 			$xml = simplexml_load_string($result['XML']);
 			foreach($xml->children() as $node) {
-				$out_list[getRef($node)] = array("code" =>(string)$node['ref'], "name"=>(string)$node);	
+				$out_list[getRef($node)] = array("code" =>(string)$node[$code], "name"=>(string)$node);	
 			}
 			return $out_list;
 	}

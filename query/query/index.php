@@ -118,8 +118,8 @@ include_once("query_functions.php");
 								<?php echo generateSelect("collaboration-type/@code",1,"CollaborationType"); ?>
 								</div>
 								
-								<div class="facet"><h4>Collaboration Type</h4>
-								<?php echo generateSelect("collaboration-type/@code",1,"CollaborationType"); ?>
+								<div class="facet wide"><h4>Sector Targetted</h4>
+								<?php echo generateSelect("sector/@code",1,null,"sector"); ?>
 								</div>
 								
 								<div class="facet wide"><h4>Default Aid Type</h4>

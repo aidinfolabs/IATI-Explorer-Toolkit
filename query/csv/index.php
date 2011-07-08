@@ -29,8 +29,8 @@ function last_updated($file) {
 //Hard coded defaults at the moment. 
 function fetch_xsl($xsl=null,$elementName = "") {
 	if(!$xsl) {
-		$xsl = array("Activities CSV"=>"https://raw.github.com/aidinfolabs/IATI-XSLT/master/templates/csv/iati-activities-xml-to-csv.xsl",
-	"Transactions CSV"=>"ttps://raw.github.com/aidinfolabs/IATI-XSLT/master/templates/csv/iati-transactions-xml-to-csv.xsl");
+		$xsl = array("Activities CSV"=>"/db/xsl/iati-activities-xml-to-csv.xsl",
+	"Transactions CSV"=>"/db/xsl/iati-transactions-xml-to-csv.xsl");
 	}
 	
 	$return .="<select name=\"$elementName\" class=\"change_xsl\" id=\"{$elementName}_select\">";
@@ -47,6 +47,15 @@ function fetch_xsl($xsl=null,$elementName = "") {
 	
 	return $return;
 }
+$default_xsl = "https://raw.github.com/aidinfolabs/IATI-XSLT/master/templates/csv/iati-activities-xml-to-csv.xsl";
+
+function load_datasets() {
+    $xml = simplexml_load_file(EXIST_URI.EXIST_DB.""); 
+	foreach($xml->xpath("//exist:resource") as $resource) {
+		$return[] = (string)$resource->attributes()->name;
+	}
+	return $return;
+}
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
@@ -61,53 +70,11 @@ function fetch_xsl($xsl=null,$elementName = "") {
 	<link rel="stylesheet" type="text/css" media="all" href="/css/style-ie.css" />
 	<![endif]-->
 	<link rel="stylesheet" type="text/css" media="all" href="/css/custom.css" />
-	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script> 	
-	<style><!--
-		.facet, .action {
-			width:45%;
-			display: inline-block;
-			vertical-align: top;
-			margin: 5px;
-		}
-		
-		.wide {
-			width:95%;
-			display: inline-block;
-			vertical-align: top;
-			margin: 5px;
-		}
-		
-		.wide select {
-			max-width:400px;
-		}
-	
-		.config {
-			display:none;
-		}
-		
-		.note {
-			font-size:smaller;
-			display:block;
-			
-		}
-		
-		.intro {
-			padding-top:10px;
-			padding-bottom:10px;
-		}
-		
-		.result-count {
-			padding-top:10px;
-			padding-bottom:10px;
-		}
-		
-		.page-list {
-			margin:auto;
-			width:100%;
-			text-align:center;
-		}
-		
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script> 
+	<script type="text/javascript" src="/js/iati-query-builder.js"></script> 
+	<script type="text/javascript" src="/js/jquery.unescape.js"></script> 
+	<link rel="stylesheet" type="text/css" media="all" href="/css/iati-toolkit.css" />	
+	<style><!--	
 		.xsl_list {
 			display:none;
 		}
@@ -136,10 +103,14 @@ function fetch_xsl($xsl=null,$elementName = "") {
 			<div id="container">
 				<div id="content" role="main">
 					<div class="post type-post status-publish format-standard">
-						<h2 class="entry-title">View IATI Data as CSV</h2>
+						<h2 class="entry-title">View IATI Donor Files as CSV</h2>
 						
 							<div class="intro">
-							The authoritative version of any IATI data is always the XML direct from the donor. This service will apply your chosen approach to 'flatten' out the data into CSV form to open and explore it in a spreadsheet based on a cached copy of the data. This system checks for new data daily, and will fetch an updated copy of donors data whenever it detects a change.
+							<p>The authoritative version of any IATI data is always the XML direct from the donor. This service will apply your chosen approach to 'flatten' out the data into CSV form to open and explore it in a spreadsheet based on a cached copy of the data. This system checks for new data daily, and will fetch an updated copy of donors data whenever it detects a change.
+							</p>
+							<p>
+								If you want a more flexible system to generate CSV from across different IATI files (e.g. by country, regardless of donor), please use the <a href="/query/">Query builder</a>.
+							</p>
 							</div>
 							
 <?php
@@ -152,13 +123,13 @@ if($file = $_GET["file"]) {
 	
 		echo "<p>Our records for ".$file." were last updated on ". date("D M Y H:m",strtotime($updated))." </p>";
 		
-		echo "<div class='result-count'>This file contains ".$total."activities. It may contain more or less transactions.</div>";
+		echo "<div class='result-count'>This file contains ".$total." activities. It may contain more or less transactions.</div>";
 		
-		echo fetch_xsl(null,"csvxsl"); 
+		echo "<div class='select-format'>".fetch_xsl(null,"csvxsl")."</div>"; 
 
 	
 	} else {
-		echo "<p>We do not have a record for the file you have requested. It is possible it has not yet been fetched, or is no longer available from the <a href=\"http://www.iatiregistry.org\">IATI Registry</a>. This service may be up to 24 hours behind the IATI Registry.";
+		echo "<p>We do not have a record for the file you have requested. It is possible it has not yet been fetched, or is no longer available from the <a href=\"http://www.iatiregistry.org\">IATI Registry</a>. This service may be up to 24 hours behind the IATI Registry. ";
 	
 	}
 
@@ -166,16 +137,16 @@ if($file = $_GET["file"]) {
 
 
 	if($total < $howmany) { 
-		$url = "fetch.php?file=".$_GET['file']."&howmany=$howmany&page={$pn}&xsl=".$_GET['xsl']."";
+		$url = "fetch.php?file=".$_GET['file']."&howmany=$howmany&page={$pn}&xsl=".($_GET['xsl'] ? $_GET['xsl'] : $default_xsl)."";
 		echo "<p>You can fetch your data in a single file. Click the link below to download.</p>";
-		echo "<p><a href=\"$url\">Download $total entries</a></p>";
+		echo "<p><a href=\"$url\" class=\"link_with_xsl\">Download $total entries</a></p>";
 	} else {
 		$pages = round($total / $howmany,0,PHP_ROUND_HALF_UP);
 		echo "<div class='result-pages'>";
 		echo "<p>To avoid large files and queries causing difficulty we'll need to fetch this in $pages separate sections. Select from the links below on turn to fetch your data. You can then recombine this data in your local software</p>";
 	
 		for($pn = 1;$pn <= $pages;$pn++) {
-			$page_array[] = "<a href=\"fetch.php?file=".$_GET['file']."&howmany=$howmany&page={$pn}&xsl=".$_GET['xsl']."\">Page $pn</a>";
+			$page_array[] = "<a href=\"fetch.php?file=".$_GET['file']."&howmany=$howmany&page={$pn}&xsl=".($_GET['xsl'] ? $_GET['xsl'] : $default_xsl)."\" class=\"link_with_xsl\">Page $pn</a>";
 		}
 		echo "<div class='page-list'>".join($page_array,", ")."</div>";
 		echo "</div>";							
@@ -198,8 +169,21 @@ if($file = $_GET["file"]) {
 									
 									<?php
 								} else {?>
-									<h3>Error</h3>
-									No query was found. Please go back to the <a href="/query/">query builder</a> or provide an XPATH query in the ?query= querystring parameter.
+									<h3>Select your file</h3>
+									<div>
+									This CSV service expects a package ID in the ?file= parameter. E.g. ?file=dfid-af for DFID's Afghanistan data.
+									</div>
+									<div>
+										<form action="." method="get">
+										<strong>Currently available files:</strong>  
+										<select name="file">
+											<?php foreach(load_datasets() as $dataset) {
+												echo "<option value='$dataset'>$dataset</option>";
+											}?>
+										</select>
+										<input type="submit" value="Fetch"/>
+									</div>
+									
 									
 							<?php	}
 							?>

@@ -59,6 +59,7 @@ $(document).ready(function() {
 		$(".human_query").html((human_query)?human_query:"All projects");
 		
 		if($(".query_count").length) {
+			$(".query_count").html("?");
 			$.ajax({
 			  url: "/count/?format=plain&query="+escape(xpath),
 			  context: document.body,
@@ -77,13 +78,20 @@ $(document).ready(function() {
 	$("#query-builder select, #query-builder input").change(function() {
 		updateQuery();
 	});	
+
+	//Create a .change_xsl select and a series of spans containing xsl urls with the same id as the option values
+	//Apply the class link_with_xsl and include &xsl= on the end of the link query string.
+	$(".change_xsl").change(function() {
+		elementName = $(this).val();
+		elementURL = $(".xsl_list #"+elementName).html();
+		$(".link_with_xsl").each(function(){
+			url = $(this).attr("href").substr(0,$(this).attr("href").indexOf("xsl=")+4);
+			$(this).attr("href",url+elementURL);
+		});
+	});
 	
 	
 	updateQuery();
 	
-	$(".change_xsl").change(function() {
-		elementName = $(this).attr("id");
-		$(this).val();
-	});
 });
 
