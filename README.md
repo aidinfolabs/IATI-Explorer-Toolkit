@@ -38,9 +38,9 @@ Place the '/query/' directory in a web root folder (i.e. at /) and the /sync/ di
 
 Check the configuration options in the load.php script and then run it at the command line to fetch and load data into your copy of eXist.
 
-'''php
+```php
 php load.php
-'''
+```
 
 This script can be scheduled to run as a regular cron job.
 

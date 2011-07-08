@@ -20,32 +20,43 @@ include_once("../query/query_functions.php");
 				border: 2px solid #EA600A;
 				padding:10px;
 			}
+			
+			.count_of_text {
+				display:none;
+			}
+			
+			.count_limit_text {
+				color:darkorange;
+			}
 		//--></style>
+
 	</head>
 	<body>
 	<form id="query-builder">
 			
 <h1>Choose the data you want to explore</h1>	
 <div class="description">
-	<div class="action url launch-explorer">
+	<div class="action url launch-explorer count_limit_grey">
 		<span class="action url" id=""><a href="#" class="target" target="_parent"><?php echo $_GET['query'] ? "Update" : "Launch"; ?> Explorer</a></span>
 		<span class="config">/explorer/?query=QUERY&desc=HUMAN</span>
 		<div class="count-details">To explore up to <select name="howmany" class="howmany">
 			<?php for($i=100;$i<1001;$i=$i+100) { 
 				echo "<option value='$i'";
-					if(($_GET['howmany'] ? $_GET['howmany'] : 200) == $i) { echo " SELECTED"; }
+					if(($_GET['howmany'] ? $_GET['howmany'] : 500) == $i) { echo " SELECTED"; }
 				echo ">$i</option>";
 			}?>
 			</select> 
 			of <span class="query_count"></span> activities.</div>
-	</div>
-	
-	The IATI Explorer allows you to explore small sets of Aid Activities in depth. It loads your chosen set of activities into your web browser and provides faceted browsing tools to let you quickly dig-down into the data. It works best with between 100 and 300 activities at a time, depending on the speed of your web browser. 
-		
+	</div>	
+	The IATI Explorer allows you to explore small sets of Aid Activities in depth. It loads your chosen set of activities into your web browser and provides faceted browsing tools to let you quickly dig-down into the data. Click more-details on any activity to get a full profile of it. 		
 </div>
 
 <div class="description">
 	<b>Current query:</b> <span class="human_query"><?php echo ($_GET['query'] ? $_GET['desc'] : "Any project"); ?></span>
+</div>
+
+<div class="description count_limit">
+	Your current query could fetch up to <span class="query_count"></span> activities. <span class="count_limit_text"><b>The IATI Explorer works best with fewer than <span class="count_limit_number">400</span> activities and will not display more than 1000 at a time. Please choose from the filter options below to narrow your selection.</b></span> <span class="count_ok_text">The smaller the number of activities to fetch, the more responsive the IATI explorer will be.</span> 
 </div>
 
 <?php if(!$_GET['query']) { ?>

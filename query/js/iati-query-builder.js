@@ -66,8 +66,22 @@ $(document).ready(function() {
 			  dataType: 'text',
 			  success: function(data){
 			    $(".query_count").html(data);
+				count = parseInt(data);
+				$(".count_limit").each(function(){
+					max = parseInt($(this).find(".count_limit_number").html());
+					if(count > max) {
+						$(".count_limit_text").show();
+						$(".count_ok_text").hide();
+						$(".count_limit_grey").fadeTo(0, 0.5);
+					} else {
+						$(".count_limit_text").hide();
+						$(".count_ok_text").show();
+						$(".count_limit_grey").fadeTo(0, 1);
+					}
+				});
 			  }
 			});
+			
 		}
 	}
 	
