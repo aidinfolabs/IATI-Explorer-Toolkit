@@ -50,7 +50,12 @@
 		    	
 			Currently viewing <?php echo $_GET['desc'] ? "activities where ".str_replace("\\","",$_GET['desc']) : "any activities" ?>. 
 			
-			Showing up to <?php echo ($_GET['howmany'] ? $_GET['howmany'] : 200); ?> of <?php echo file_get_contents("http://".$_SERVER['SERVER_NAME']."/count/?query=".urlencode($_GET['query']));?> activities. <a href="query.php?howmany=<?php echo $_GET['howmany'];?>&query=<?php //echo $_GET['query'];?>&desc=<?php //echo $_GET['desc'];?>&TB_iframe=true&height=500&width=800" class="thickbox" title="Choose your data"><b>New selection</b></a> | <a href="about.php?height=500&width=800" class="thickbox">About</a>
+			<?php $count= file_get_contents("http://".$_SERVER['SERVER_NAME']."/count/?query=".urlencode($_GET['query']));
+			$howmany = $_GET['howmany'] ? $_GET['howmany'] : 200;
+			$showing = ($howmany > $count) ? $count : $howmany;
+			?>
+			
+			Showing <?php echo $showing; ?> of <?php echo $count;?> activities. <a href="query.php?howmany=<?php echo $_GET['howmany'];?>&query=<?php //echo $_GET['query'];?>&desc=<?php //echo $_GET['desc'];?>&TB_iframe=true&height=500&width=800" class="thickbox" title="Choose your data"><b>New selection</b></a> | <a href="about.php?height=500&width=800" class="thickbox">About</a>
 			<?php } else { ?>
 				<a href="query.php?TB_iframe=true&height=500&width=800" class="thickbox" title="Choose your data"><b>Choose the data to explore</b></a>	
 			<?php }?>
@@ -123,8 +128,10 @@
             <div ex:role="facet" ex:facetClass="TextSearch" id="textSearch" ex:label="Search"  ex:collectionID="projects"></div> 
             <div ex:role="facet" ex:expression=".reporting-org" ex:collectionID="projects" ex:height="60"></div> 
             <div ex:role="facet" ex:expression=".funding-org" ex:collectionID="projects" ex:height="60"></div> 
+
+            <div ex:role="facet" ex:expression=".recipient-country-code.label" ex:height="60" ex:collectionID="projects"></div>
+
             <div ex:role="facet" ex:expression=".recipient-region" ex:height="60" ex:collectionID="projects"></div> 
-            <div ex:role="facet" ex:expression=".recipient-country" ex:height="60" ex:collectionID="projects"></div>
 
 			<div ex:role="facet" ex:expression=".activity-status" ex:height="60" ex:collectionID="projects"></div>
 			
