@@ -53,7 +53,6 @@
 		<h4>Project Description</h4>
 		<xsl:if test="not(description)"><span class="description-none">No project description available</span></xsl:if>
 		<xsl:for-each select="description">
-			<xsl:if test="@type"><h5 class="description-{@type}"><xsl:value-of select="@type"/></h5></xsl:if>
 			<span class="description description-{@type}"><xsl:value-of select="."/></span> 
 		</xsl:for-each>
 	</div>

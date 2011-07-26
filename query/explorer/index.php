@@ -110,7 +110,7 @@
 
     			<div class="funding"> 
     					<span class="field-title">Commitments:</span> <span ex:content=".default-currency"></span> <span ex:content="add(.total-commitments)"></span> 
-    					<span class="field-title">Funds given:</span> <span ex:content=".default-currency"></span> <span ex:content="add(.total-expenditure,.total-disbursments,.total-reimbursment,.total-incoming-funds)"></span> 
+    					<span class="field-title">Expenditure:</span> <span ex:content=".default-currency"></span> <span ex:content="add(.total-expenditure,.total-disbursments,.total-reimbursment,.total-incoming-funds)"></span> 
     					<span class="field-title">Loan and Interest Repayments:</span> <span ex:content=".default-currency"></span> <span ex:content="add(.total-loan-repayment,.total-interest-repayment)"></span> 
     			</div> 
     			<div class="iati-aidtype"> 

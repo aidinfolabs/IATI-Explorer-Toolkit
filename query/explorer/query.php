@@ -35,6 +35,13 @@ include_once("../query/query_functions.php");
 	<form id="query-builder">
 			
 <h1>Choose the data you want to explore</h1>	
+
+<!--[if gt IE 6]>
+<div class="ie-only">
+	Note: The IATI Explorer is a prototype that has been tested with Firefox and Chrome browsers. There are reports of some versions of Internet Explorer having difficulty accessing the IATI Explorer. If you receive an error message when using Internet Explorer, please try an alternative web browser.
+</div><![endif]-->
+
+
 <div class="description">
 	<div class="action url launch-explorer count_limit_grey">
 		<span class="action url" id=""><a href="#" class="target" target="_parent"><?php echo $_GET['query'] ? "Update" : "Launch"; ?> Explorer</a></span>

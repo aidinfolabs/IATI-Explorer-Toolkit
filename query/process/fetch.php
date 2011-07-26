@@ -26,7 +26,7 @@ $url = EXIST_URI.EXIST_DB."?_query=".$_GET['query']
 
 
 $file = file_get_contents($url);
-echo $url;
+
 echo $file;
 
 ?>
