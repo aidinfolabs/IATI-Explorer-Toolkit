@@ -1,5 +1,5 @@
 xquery version "1.0";
- 
+  
 declare namespace request="http://exist-db.org/xquery/request";
 declare namespace xs="http://www.w3.org/2001/XMLSchema";
 declare namespace explorer="http://tools.aidinfolabs.org/explorer";

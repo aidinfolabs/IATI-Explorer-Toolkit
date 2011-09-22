@@ -1,7 +1,7 @@
 xquery version "1.0";
 (:
  To Do
-   - Identify correct deletion routine...
+   - Identify correct deletion routine.
 :)
 declare namespace  xdb="http://exist-db.org/xquery/xmldb";
 declare namespace util="http://exist-db.org/xquery/util";

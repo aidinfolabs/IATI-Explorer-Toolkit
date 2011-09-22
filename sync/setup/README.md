@@ -1,6 +1,6 @@
 This folder contains files to be uploaded to a vanilla eXist install to get full functionality. 
 
-## Collections 
+## Collections  
 
 Create the following collections
 

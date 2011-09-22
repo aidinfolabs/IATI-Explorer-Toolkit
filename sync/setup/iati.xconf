@@ -16,5 +16,5 @@
         <trigger class="org.exist.collections.triggers.XQueryTrigger" event="store, update">
             <parameter name="url" value="xmldb:exist://localhost/db/triggers/iatiVersionControl.xq"/>
         </trigger>
-    </triggers>
+   </triggers>
 </collection>

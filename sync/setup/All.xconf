@@ -17,5 +17,5 @@
             class="org.exist.versioning.VersioningTrigger">
             <parameter name="overwrite" value="yes"/>
         </trigger>
-    </triggers>
+    </triggers> 
 </collection>
