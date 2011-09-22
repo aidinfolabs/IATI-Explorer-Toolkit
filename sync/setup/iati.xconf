@@ -1,0 +1,20 @@
+<collection xmlns="http://exist-db.org/collection-config/1.0">
+    <index>
+        <fulltext default="none" attributes="false"/>
+        <!-- range indexes -->
+        <create qname="iati-identifier" type="xs:sttriggers.xconfring"/>
+        <create path="//recipient-region/@ref" type="xs:string"/>
+        <create path="//recipient-country/@ref" type="xs:string"/>
+        <create path="//sector/@code" type="xs:string"/>
+        <create path="//related-activity/@ref" type="xs:string"/>
+        <create path="//reporting-org/@ref" type="xs:string"/>
+        <create path="//participating-org/@ref" type="xs:string"/>
+        <create path="//activity-status/@code" type="xs:string"/>
+        <create path="//default-tied-status/@code" type="xs:string"/>
+    </index>
+    <triggers>
+        <trigger class="org.exist.collections.triggers.XQueryTrigger" event="store, update">
+            <parameter name="url" value="xmldb:exist://localhost/db/triggers/iatiVersionControl.xq"/>
+        </trigger>
+    </triggers>
+</collection>
