@@ -3,12 +3,13 @@ include ('include/eXist.php');
 
 try
 {
-	$db = new eXist();
+	$db = new eXist("admin", "LhFOry9mCY", "http://tools.aidinfolabs.org/exist/services/Query?wsdl");
 
 	# Connect
 	$db->connect() or die ($db->getError());
 
-	$query = 'for $line in //SPEECH[SPEAKER = "BERNARDO"]/LINE return $line';
+	$query = "";
+
 
 	print "<p><b>XQuery:</b></p><pre>$query</pre>";
 

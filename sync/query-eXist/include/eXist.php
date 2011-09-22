@@ -96,6 +96,7 @@ class eXist
 	  }
 	  catch( SoapFault $e )
 	  {
+
 		  $this->setError($e->faultstring);
 		  return false;
 	  }
